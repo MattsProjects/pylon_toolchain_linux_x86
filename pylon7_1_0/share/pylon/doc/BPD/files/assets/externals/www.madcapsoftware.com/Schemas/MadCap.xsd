@@ -1,0 +1,1722 @@
+
+
+<!DOCTYPE html>
+<!--2014Fullscreen Template -->
+<html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head id="head"><title>
+	Technical Writing Software & Tools for Authoring - Leading Solutions
+</title>
+        <META NAME="description" CONTENT="Leading technical writing software for authoring, managing, publishing content like knowledge bases, user manuals, online/web help etc. Free 30-day trials!">
+        <META NAME="keywords" CONTENT="madcap software, technical writing, technical communication software, documentation, madpak, madcap flare, blaze, x-edit analyzer, feedback, lingo, mimic, capture, robohelp replacement, authoring tools, translation, webhelp, help tools, help authoring software">
+        <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png?v=Km2q8pyoLK">
+        <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png?v=Km2q8pyoLK">
+        <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png?v=Km2q8pyoLK">
+        <link rel="manifest" href="/site.webmanifest?v=Km2q8pyoLK">
+        <link rel="mask-icon" href="/safari-pinned-tab.svg?v=Km2q8pyoLK" color="#45494c">
+        <link rel="shortcut icon" href="/favicon.ico?v=Km2q8pyoLK">
+        <meta name="msapplication-TileColor" content="#ffffff">
+        <meta name="theme-color" content="#ffffff">
+            <meta property="og:title" content="Technical Writing Software & Tools for Authoring - Leading Solutions" />
+            <meta property="og:type" content="article" />
+            <meta property="og:image" content="https://f1.madcapsoftware.com/websiteImages/open-graph/WebsiteOpenGraphImages-Homepage-1200x627%20(1).png"/>
+            <meta property="og:url" content="https://www.madcapsoftware.com/errors/404.aspx?404;https://madcapsoftware__5961:80/Schemas/MadCap.xsd"/>
+            <meta property="og:site_name" content="MadCap Software" />
+            <meta property="fb:app_id" content="506188849406365" />
+            <meta property="og:description" content="Leading technical writing software for authoring, managing, publishing content like knowledge bases, user manuals, online/web help etc. Free 30-day trials!" />
+            <meta name="twitter:card" content="summary_large_image">
+            <meta name="twitter:site" content="@madcapsoftware">
+            <meta name="twitter:title" content="Technical Writing Software & Tools for Authoring - Leading Solutions">
+            <meta name="twitter:description" content="Leading technical writing software for authoring, managing, publishing content like knowledge bases, user manuals, online/web help etc. Free 30-day trials!">
+            <meta name="twitter:image" content="https://f1.madcapsoftware.com/websiteImages/open-graph/WebsiteOpenGraphImages-Homepage-1200x627%20(1).png">
+    <!--[if lt IE 10]> <meta http-equiv="X-UA-Compatible" content="IE=9; IE=8; IE=7" /> <![endif]-->
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link rel="preconnect" href="https://scripts.sirv.com" crossorigin>
+<link rel="preconnect" href="https://f1.madcapsoftware.com" crossorigin>
+<link rel="dns-prefetch" href="https://scripts.sirv.com">
+<link rel="dns-prefetch" href="https://f1.madcapsoftware.com">
+<!-- StylesheetLinks Control --> 
+
+                <link
+                  rel="preload"
+                  as="style"
+                  href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,500,700,700i,900&display=swap"
+                />
+
+                <link
+                  rel="stylesheet"
+                  href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,500,700,700i,900&display=swap"
+                  media="print"
+                  onload="this.media='all'"
+                />
+            <link rel='stylesheet' type='text/css' media='all' href='https://www.madcapsoftware.com/sass/css/responsive-bootstrap4/style.min.css?v=80' />
+
+
+<!-- scripts -->
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-1064272442"></script>
+<script> 
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'AW-1064272442');
+    gtag('config', 'UA-621188-1');
+</script>
+
+<script type="text/javascript">
+    var sdkInstance = "appInsightsSDK"; window[sdkInstance] = "appInsights"; var aiName = window[sdkInstance], aisdk = window[aiName] || function (e) { function n(e) { t[e] = function () { var n = arguments; t.queue.push(function () { t[e].apply(t, n) }) } } var t = { config: e }; t.initialize = !0; var i = document, a = window; setTimeout(function () { var n = i.createElement("script"); n.src = e.url || "https://az416426.vo.msecnd.net/scripts/b/ai.2.min.js", i.getElementsByTagName("script")[0].parentNode.appendChild(n) }); try { t.cookie = i.cookie } catch (e) { } t.queue = [], t.version = 2; for (var r = ["Event", "PageView", "Exception", "Trace", "DependencyData", "Metric", "PageViewPerformance"]; r.length;)n("track" + r.pop()); n("startTrackPage"), n("stopTrackPage"); var s = "Track" + r[0]; if (n("start" + s), n("stop" + s), n("setAuthenticatedUserContext"), n("clearAuthenticatedUserContext"), n("flush"), !(!0 === e.disableExceptionTracking || e.extensionConfig && e.extensionConfig.ApplicationInsightsAnalytics && !0 === e.extensionConfig.ApplicationInsightsAnalytics.disableExceptionTracking)) { n("_" + (r = "onerror")); var o = a[r]; a[r] = function (e, n, i, a, s) { var c = o && o(e, n, i, a, s); return !0 !== c && t["_" + r]({ message: e, url: n, lineNumber: i, columnNumber: a, error: s }), c }, e.autoExceptionInstrumented = !0 } return t }(
+        {
+            instrumentationKey: "5a0aac44-a88a-48ec-b0b6-1ae6beb34192"
+        }
+    ); window[aiName] = aisdk, aisdk.queue && 0 === aisdk.queue.length && aisdk.trackPageView({});
+</script>
+
+<!-- Google Adwords Salesforce integration -->
+<script type="text/javascript">
+function setCookie(name, value, days){
+    var date = new Date();
+    date.setTime(date.getTime() + (days*24*60*60*1000)); 
+    var expires = "; expires=" + date.toGMTString();
+    document.cookie = name + "=" + value + expires + "; path=/;";
+}
+function getParam(p){
+    var match = RegExp('[?&]' + p + '=([^&]*)').exec(window.location.search);
+    return match && decodeURIComponent(match[1].replace(/\+/g, ' '));
+}
+var gclid = getParam('gclid');
+if(gclid){
+    var gclsrc = getParam('gclsrc');
+    if(!gclsrc || gclsrc.indexOf('aw') !== -1){
+        setCookie('gclid', gclid, 90);
+    }
+}
+</script>
+
+<script defer src="https://cdn.requestmetrics.com/agent/current/rm.js" data-rm-token="t7qa4ga:s8ue7kf"></script>
+<script async defer src="https://tools.luckyorange.com/core/lo.js?site-id=d9491039"></script>
+
+
+<!-- Google Tag Manager -->
+<script>(function (w, d, s, l, i) {
+        w[l] = w[l] || []; w[l].push({
+            'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+        }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+                'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-WL6SSXS');</script>
+<!-- End Google Tag Manager -->
+</head>
+<body id="MasterBodyTag" class="preload" xmlns:ng="http://angularjs.org">
+    
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WL6SSXS"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+    <div style="display: none">
+    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><symbol id="icon-download" viewBox="0 0 90.1 83.6"><path d="M87.1 38.3c-1.7 0-3 1.3-3 3v36.4H6V41.3c0-1.7-1.3-3-3-3s-3 1.3-3 3v39.4c0 1.7 1.3 3 3 3h84.1c1.7 0 3-1.3 3-3V41.3c0-1.7-1.3-3-3-3z"/><path d="M42.8 64.2c.1.1.3.3.5.4 0 0 .1.1.2.1.1.1.2.1.4.2.1 0 .1 0 .2.1.1 0 .2.1.4.1s.4.1.6.1c.2 0 .4 0 .6-.1.1 0 .2-.1.4-.1.1 0 .1 0 .2-.1s.2-.1.4-.2c.1 0 .1-.1.2-.1.2-.1.3-.2.5-.4L68.2 43c1.2-1.2 1.2-3.1 0-4.2-1.2-1.2-3.1-1.2-4.2 0L47.9 54.9V3c0-1.7-1.3-3-3-3s-3 1.3-3 3v51.9L26.1 39.1c-1.2-1.2-3.1-1.2-4.2 0-1.2 1.2-1.2 3.1 0 4.2l20.9 20.9z"/></symbol><symbol id="icon-externalLink" viewBox="0 0 80.9 80.9"><path d="M80.9 2.4c0-.1 0-.2-.1-.2 0-.1-.1-.2-.1-.3 0-.1-.1-.2-.1-.3 0-.1-.1-.2-.1-.2-.2-.3-.5-.6-.8-.8-.1 0-.2-.1-.2-.1-.1-.1-.2-.1-.3-.2-.1 0-.2-.1-.3-.1-.1 0-.2-.1-.3-.1-.3-.1-.5-.1-.7-.1h-36c-1.7 0-3 1.3-3 3s1.3 3 3 3h28.8L25.6 51.1c-1.2 1.2-1.2 3.1 0 4.2.6.6 1.4.9 2.1.9.8 0 1.5-.3 2.1-.9l45.1-45.1v28.2c0 1.7 1.3 3 3 3s3-1.3 3-3v-36z"/><path d="M58.5 45.2c-1.7 0-3 1.3-3 3v26.6H6V25.4h26.5c1.7 0 3-1.3 3-3s-1.3-3-3-3H3c-1.7 0-3 1.3-3 3v55.5c0 1.7 1.3 3 3 3h55.5c1.7 0 3-1.3 3-3V48.2c0-1.6-1.4-3-3-3z"/></symbol><symbol id="icon-hamburger"><path fill-rule="evenodd" d="M0 14v-2h20v2H0zm0-8h20v2H0V6zm0-6h20v2H0V0z"/></symbol><symbol id="icon-savings" viewBox="0 0 111.1 111.1"><path d="M14.3 57H1.5C.67 57 0 56.33 0 55.5S.67 54 1.5 54h12.8c.83 0 1.5.67 1.5 1.5s-.67 1.5-1.5 1.5zm12.1-29.1c-.38 0-.77-.15-1.06-.44l-9.1-9.1a1.49 1.49 0 010-2.12 1.49 1.49 0 012.12 0l9.1 9.1c.59.59.59 1.54 0 2.12-.29.29-.68.44-1.06.44zm29.1-12.1c-.83 0-1.5-.67-1.5-1.5V1.5c0-.83.67-1.5 1.5-1.5S57 .67 57 1.5v12.8c0 .83-.67 1.5-1.5 1.5zm29.2 12.1c-.38 0-.76-.14-1.05-.43a1.5 1.5 0 01-.01-2.12l9-9.1a1.5 1.5 0 012.13 2.11l-9 9.1c-.3.29-.68.44-1.07.44zM109.6 57H96.8c-.83 0-1.5-.67-1.5-1.5s.67-1.5 1.5-1.5h12.8c.83 0 1.5.67 1.5 1.5s-.67 1.5-1.5 1.5zM93.7 95.2c-.38 0-.77-.15-1.06-.44l-9-9c-.59-.59-.59-1.54 0-2.12s1.54-.59 2.12 0l9 9c.59.59.59 1.54 0 2.12-.29.29-.68.44-1.06.44zm-38.2 15.9c-.83 0-1.5-.67-1.5-1.5V96.8c0-.83.67-1.5 1.5-1.5s1.5.67 1.5 1.5v12.8c0 .83-.67 1.5-1.5 1.5zM17.3 95.2a1.5 1.5 0 01-1.07-.45 1.5 1.5 0 01.01-2.12l9.1-9a1.5 1.5 0 012.11 2.13l-9.1 9c-.29.3-.67.44-1.05.44zm38.2-7.9c-17.53 0-31.8-14.27-31.8-31.8s14.27-31.8 31.8-31.8 31.8 14.27 31.8 31.8-14.27 31.8-31.8 31.8zm0-57.6c-14.23 0-25.8 11.57-25.8 25.8s11.57 25.8 25.8 25.8 25.8-11.57 25.8-25.8-11.57-25.8-25.8-25.8z"/><path d="M55.5 45.9c-.83 0-1.5-.67-1.5-1.5v-5.6c0-.83.67-1.5 1.5-1.5s1.5.67 1.5 1.5v5.6c0 .83-.67 1.5-1.5 1.5z"/><path d="M55.37 68.11c-3.22 0-6.62-1.54-8.25-5.32a1.497 1.497 0 112.75-1.18c1.41 3.28 4.64 3.85 6.98 3.35 1.99-.43 3.98-1.78 3.95-3.83 0-2.18-2.18-3.04-5.76-4.2-3.25-1.05-7.7-2.49-7.84-6.98-.06-3.27 2.48-6.01 6.32-6.83 3.72-.8 8.37.46 10.36 5.1.33.76-.02 1.64-.79 1.97-.76.33-1.64-.02-1.97-.78-1.41-3.28-4.64-3.85-6.97-3.35-1.99.43-3.98 1.78-3.95 3.83.06 2 1.91 2.95 5.76 4.2 3.49 1.13 7.84 2.54 7.84 7.03.06 3.23-2.48 5.96-6.32 6.79-.68.13-1.39.2-2.11.2z"/><path d="M55.5 73.8c-.83 0-1.5-.67-1.5-1.5v-5.6c0-.83.67-1.5 1.5-1.5s1.5.67 1.5 1.5v5.6c0 .83-.67 1.5-1.5 1.5z"/></symbol><symbol id="icon-searchT2" viewBox="0 0 89.35 91.27"><path d="M88.47 86.15L55.38 53.06c5.09-5.64 8.19-13.1 8.19-21.27C63.57 14.26 49.31 0 31.79 0 14.26 0 0 14.26 0 31.78c0 17.53 14.26 31.78 31.79 31.78 7.19 0 13.83-2.41 19.17-6.45l33.27 33.27c.59.59 1.35.88 2.12.88s1.54-.29 2.12-.88a2.988 2.988 0 000-4.23zM6 31.78C6 17.57 17.57 6 31.79 6 46 6 57.57 17.57 57.57 31.78 57.57 46 46 57.57 31.79 57.57 17.57 57.57 6 46 6 31.78z"/></symbol><symbol id="icon-simon" viewBox="0 0 609.8 574.1"><path d="M129.9 367.2v.4c2.7 56.6 44.1 104.4 98.5 113.6 57.8 9.8 114.7-20.5 135.2-71.9l.4-1c.1-.4.4-3.5.4-3.5 0-8.5-6.9-15.4-15.4-15.4-5.7 0-10.9 3.1-13.6 8.1l-1.1 2.2c-15.5 36.9-57.9 58.2-100.7 50.9-40.8-6.9-70.9-41.1-73-83 0-8.8-6.9-15.7-15.4-15.7-8.4-.1-15.3 6.8-15.3 15.3z"/><path d="M7.7 331.3c0 63.9 24.7 124.5 69.5 170.7 45.1 46.5 104.7 72.1 167.9 72.1 130.6 0 240.9-110.8 240.9-241.9 0-12-9.7-21.8-21.8-21.8-12 0-21.8 9.8-21.8 21.8 0 109-88.5 197.8-197.2 197.8-52.5 0-101.4-20.6-137.7-58-36.1-37.1-55.9-86.7-55.9-139.6 0-12.5-10.2-23.4-21.9-23.4-11.9-.1-22 10.2-22 22.3zM237.6 111c-16.5 0-31.9-6.5-43.8-18-85 17.5-152.8 76-181.6 156.8-1.3 3.7-2 7.2-2 10.5 0 4.5 1.2 8.7 3.7 12.4 5.1 7.6 16 8.4 16.1 8.4h561.4c10.2-.6 18.4-9.2 18.4-19.5 0-10.6-8.3-19.2-18.8-19.7l-117.8-.1-1-2.4c-33-78.3-105.2-135-188.7-148.4-11.9 12.7-28.5 20-45.9 20z"/><path d="M283.6 46.3c-.2 25.3-20.9 45.7-46.2 45.5-25.4-.2-45.7-20.9-45.6-46.3C192 20.2 212.7-.2 238 0c25.4.2 45.8 20.9 45.6 46.3zm191.7.3c-.1 10.6-38.7 18.8-86.2 18.4-47.5-.4-86-9.3-85.9-19.8.1-10.6 38.7-18.8 86.3-18.4 47.5.3 85.9 9.2 85.8 19.8zM0 46.6C.1 57.2 38.7 65.4 86.2 65c47.5-.4 86-9.3 85.9-19.8-.1-10.6-38.7-18.8-86.3-18.4C38.3 27.1-.1 36 0 46.6z"/></symbol><symbol id="icon-simonAngled" viewBox="0 0 280.5 253.7"><path d="M90.6 176.4v.2c7.5 23.5 30.3 38.9 54.1 36.6 25.3-2.4 45.8-21.5 48.7-45.4v-.5c0-.2-.2-1.5-.2-1.5-1-3.6-4.6-5.7-8.2-4.7-2.4.6-4.2 2.5-4.8 4.9l-.2 1c-2.4 17.2-17.7 30.9-36.5 32.7-17.9 1.7-34.4-9.3-40-26.6-1-3.7-4.7-5.8-8.2-4.9-3.5.9-5.6 4.6-4.7 8.2z"/><path d="M35.3 175c7.2 26.8 24.4 49.5 48.4 63.8 24.2 14.5 52.1 18.5 78.6 11.4 54.8-14.7 88.6-73.6 73.9-128.6-1.4-5-6.5-8-11.6-6.7-5 1.4-8 6.5-6.7 11.6 12.3 45.8-14.9 92.9-60.5 105.2-22 5.9-44.9 2.8-64.3-8.9-19.3-11.5-33.2-30.1-39.2-52.3-1.4-5.2-6.9-8.7-11.8-7.4-5.1 1.4-8.2 6.9-6.8 11.9zM107 56.8c-6.9 1.9-14.1.9-20.4-2.6C52.9 71 31 103.2 28 140.4c-.1 1.7 0 3.2.4 4.6.5 1.9 1.5 3.5 2.9 4.8 3 2.6 7.7 1.7 7.7 1.7l235.6-63.1c4.2-1.4 6.7-5.9 5.5-10.2a8.52 8.52 0 00-10.1-6.1l-49.4 13.2-.7-.9c-22.7-29.2-59.3-44.8-95.9-41-3.5 6.5-9.7 11.4-17 13.4zm12-32.4c2.8 10.7-3.6 21.5-14.3 24.3-10.7 2.8-21.5-3.6-24.3-14.3-2.8-10.7 3.6-21.5 14.3-24.3 10.7-2.7 21.6 3.7 24.3 14.3zM199.6 3c1.1 4.5-14.1 12.3-34.1 17.4-20 5.2-37.1 5.8-38.3 1.3-1.2-4.5 14.1-12.2 34.1-17.4 20-5.2 37.1-5.8 38.3-1.3zM.1 56.4c1.2 4.4 18.3 3.6 38.3-2 19.9-5.5 35.1-13.6 33.8-18-1.2-4.4-18.4-3.5-38.3 2C14 44-1.2 52 .1 56.4z"/></symbol><symbol id="icon-store" viewBox="0 0 109.7 94.4"><path d="M109.1 16.2c-.6-.8-1.5-1.2-2.4-1.2H25.4L22.2 2.3C21.9.9 20.7 0 19.3 0H3C1.3 0 0 1.3 0 3s1.3 3 3 3h14l16.3 64.2c.3 1.3 1.5 2.3 2.9 2.3h55.4c1.7 0 3-1.3 3-3s-1.3-3-3-3h-53l-1.4-5.3h56.2c1.3 0 2.4-.8 2.8-2.1l13.2-40.2c.4-1 .3-2-.3-2.7zM91.3 55.1H35.7L27 20.9h75.5L91.3 55.1zm-46 20.1c-5.3 0-9.6 4.3-9.6 9.6s4.3 9.6 9.6 9.6 9.6-4.3 9.6-9.6-4.3-9.6-9.6-9.6zm0 13.2c-2 0-3.6-1.6-3.6-3.6s1.6-3.6 3.6-3.6 3.6 1.6 3.6 3.6-1.6 3.6-3.6 3.6zm36.8-13.2c-5.3 0-9.6 4.3-9.6 9.6s4.3 9.6 9.6 9.6 9.6-4.3 9.6-9.6-4.3-9.6-9.6-9.6zm0 13.2c-2 0-3.6-1.6-3.6-3.6s1.6-3.6 3.6-3.6 3.6 1.6 3.6 3.6-1.6 3.6-3.6 3.6z"/></symbol><symbol id="icon-threeDots" viewBox="0 0 38.7 7.7"><circle cx="34.9" cy="3.9" r="3.9"/><circle cx="19.4" cy="3.9" r="3.9"/><circle cx="3.9" cy="3.9" r="3.9"/></symbol><symbol id="logo-madcap" viewBox="0 0 981.93 265.67"><path d="M344 66.63h10.5v14q5.44-7.74 11.17-11.31a32.2 32.2 0 0116.58-4.63A27.75 27.75 0 01393.41 67a23.79 23.79 0 018.59 6.12 32.83 32.83 0 015.8 11 38.5 38.5 0 0113-14.46 30.56 30.56 0 0116.69-5 26.08 26.08 0 0114.72 4.24 25.42 25.42 0 019.53 11.83c2 5 3.08 12.64 3.08 22.72v44.15h-10.49v-44.14c0-8.67-.62-14.61-1.84-17.86a16.25 16.25 0 00-6.32-7.84 18.88 18.88 0 00-10.69-3 23.13 23.13 0 00-13.79 4.47 25.51 25.51 0 00-9.15 11.88q-2.88 7.43-2.87 24.82v31.67h-10.5v-41.38c0-9.77-.6-16.38-1.82-19.88A16.72 16.72 0 00391 78a18.27 18.27 0 00-10.76-3.17 23.25 23.25 0 00-13.48 4.34 25.74 25.74 0 00-9.27 11.71q-3 7.36-3 22.52v34.2H344zm223.56 0v81h-10.5V133.7a43.29 43.29 0 01-14.65 11.91 40.15 40.15 0 01-17.74 3.94 39.4 39.4 0 01-29.27-12.42 41.67 41.67 0 01-12.13-30.22 40.86 40.86 0 0112.24-29.83A39.88 39.88 0 01525 64.67a38.5 38.5 0 0118 4.18 40.24 40.24 0 0114.11 12.64V66.63zm-41.72 8.15A31.19 31.19 0 00498.28 91a32.7 32.7 0 000 32.59A31.53 31.53 0 00510 135.71a30.54 30.54 0 0015.78 4.34 31.9 31.9 0 0016.06-4.31 30 30 0 0011.72-11.62 33.22 33.22 0 004.11-16.52c0-9.35-3.08-17.13-9.21-23.41a30.33 30.33 0 00-22.62-9.41zm145.69-39.23V147.6H661v-13.9a43.23 43.23 0 01-14.63 11.91 39.87 39.87 0 01-17.69 3.94 39.23 39.23 0 01-29.2-12.42 41.7 41.7 0 01-12.08-30.22 40.93 40.93 0 0112.19-29.83A39.78 39.78 0 01629 64.67a37.86 37.86 0 0118 4.26 41 41 0 0114 12.71V35.55zm-41.62 39.23A31.1 31.1 0 00602.43 91a32.79 32.79 0 000 32.59 31.7 31.7 0 0011.66 12.12 30.32 30.32 0 0015.71 4.34 31.86 31.86 0 0016-4.31 30 30 0 0011.67-11.62 33.41 33.41 0 004.08-16.52c0-9.35-3.06-17.13-9.16-23.41a30.21 30.21 0 00-22.48-9.41zm143.73 8.47l-8.23 5.12c-7.18-9.44-16.88-14.17-29.25-14.17-9.88 0-18.06 3.18-24.6 9.53a31.19 31.19 0 00-9.78 23.17 33 33 0 004.51 16.68 31.41 31.41 0 0012.36 12.13 35.7 35.7 0 0017.6 4.34q17.85 0 29.16-14.18l8.23 5.42A39 39 0 01758 144.78a50.59 50.59 0 01-22.33 4.77q-19.23 0-31.91-12.17a39.44 39.44 0 01-12.69-29.59A42.42 42.42 0 01697 86a41.93 41.93 0 0116.29-15.69 47.86 47.86 0 0123.19-5.64 50.08 50.08 0 0115.55 2.44 43.59 43.59 0 0112.71 6.27 34 34 0 018.9 9.87zm100.6-16.62v81h-10.46V133.7a43.68 43.68 0 01-14.65 11.91 40.33 40.33 0 01-17.76 3.94 39.41 39.41 0 01-29.28-12.42A41.68 41.68 0 01790 106.91a40.84 40.84 0 0112.26-29.83 39.86 39.86 0 0129.45-12.41 38.56 38.56 0 0118 4.18 40.73 40.73 0 0114.13 12.64V66.63zm-41.71 8.15A31.25 31.25 0 00805 91a32.7 32.7 0 000 32.59 31.32 31.32 0 0011.71 12.12 30.38 30.38 0 0015.74 4.34 32 32 0 0016.08-4.31 29.9 29.9 0 0011.72-11.62 33.31 33.31 0 004.08-16.52c0-9.35-3.05-17.13-9.17-23.41a30.41 30.41 0 00-22.63-9.41zm65.09-8.15h10.49v14.86a41.13 41.13 0 0114.18-12.64 38.2 38.2 0 0117.88-4.18 40 40 0 0129.49 12.41 40.85 40.85 0 0112.27 29.83 41.73 41.73 0 01-12.16 30.22 40.89 40.89 0 01-47 8.4 44.56 44.56 0 01-14.63-12v43.57h-10.52zm41.72 8.15a30.39 30.39 0 00-22.63 9.41c-6.11 6.28-9.18 14.06-9.18 23.41a33.31 33.31 0 004.09 16.52 29.86 29.86 0 0011.73 11.62 32.33 32.33 0 0016.14 4.31 30.2 30.2 0 0015.66-4.34 31.58 31.58 0 0011.73-12.12 32.79 32.79 0 000-32.59 31.31 31.31 0 00-27.57-16.22zM347.09 217.54c4.8 6 11.93 10.35 22.28 10.35 8.08 0 15.4-2.53 15.4-8.38 0-13.9-40.86-2-40.86-22.32 0-11.19 11.49-15 21.83-15 16.51 0 22.53 7.06 25.05 10.63l-5.18 4.69c-4-5.19-10.32-8.83-20-8.83-9 0-14.09 2.81-14.09 8 0 12.71 40.88 1.24 40.88 22.3 0 11.26-11.09 15.38-23.69 15.38-10.88 0-19.92-3.08-27.22-11.62zm52.26-10.14c0-14 11.09-25.17 28.37-25.17S456 193.42 456 207.4c0 17.41-11.58 27-28.29 27s-28.36-9.59-28.36-27zm49 .95c0-8.94-5.8-19.63-20.66-19.63S407 199.41 407 208.35c0 11.75 7.9 19.54 20.77 19.54s20.61-7.79 20.61-19.54zm25.21-17.1h-12.39v-6.47h12.39V181c0-8.07 2.54-18.14 17.49-18.14 7.78 0 10.78.86 12.75 1.34v6.8a41.77 41.77 0 00-10.53-1.57c-10.49 0-12.08 5-12.08 12.19v3.21h20.2v6.47h-20.2v41.63h-7.63zm73.12-1.02h-19.52v29.69c0 5.34 2.34 8 10 8A51.57 51.57 0 00548 226.4v6.6a86.83 86.83 0 01-12.39 1.38c-16.09 0-16.09-9.76-16.09-13.71v-30.44H509.1v-6.49h10.41v-16.35h7.65v16.35h19.52zm6.61-6.49h7.78l16.35 40 15.22-40h7.16l15.2 40.12 16.16-40.12h8l-20.75 49.14h-7.23l-15-39.86-15 39.86h-7.25zm142.5 41.52a38.82 38.82 0 00.85 7.62H689a27.72 27.72 0 01-.93-5.94 44 44 0 01-24.55 7.42c-8.07 0-20-2.25-20-14.91 0-17 25.46-17.67 44.61-19.92v-1.89c0-6.67-7.94-9.21-15.74-9.21-13.06 0-17.69 5.47-20.13 8.25l-5.72-3.93c2.82-3.46 8.16-10.52 25.29-10.52 11.16 0 23.93 3.29 23.93 15.87zm-7.63-19.53c-22.36 2.14-37.37 4.22-37.37 13.72 0 7.7 8.64 8.71 12.4 8.71 10.63 0 20.12-5 25-7.68zm22.11-21.99h7.6V194c4.41-5 10.62-11.74 20.47-11.74a22.62 22.62 0 014.52.38v7.62a31.27 31.27 0 00-6.11-.69c-10.79 0-18.6 12.51-18.88 13.91v29.43h-7.6zm92.16 38.91c-5.1 5.34-10 11.71-26.7 11.71-16.51 0-27.8-11.25-27.8-26.28 0-15.58 11.74-25.85 26.89-25.85 15.67 0 29.38 8.18 29 27.63h-48.28c.75 9.2 8.18 18 21 18s16.91-5.72 20-9.58zm-6.86-19.28c-1.53-8.08-8.46-14.65-20.12-14.65-11.16 0-17.46 5.64-19.62 14.65z"/><path d="M344 66.63h10.5v14q5.44-7.74 11.17-11.31a32.2 32.2 0 0116.58-4.63A27.75 27.75 0 01393.41 67a23.79 23.79 0 018.59 6.12 32.83 32.83 0 015.8 11 38.5 38.5 0 0113-14.46 30.56 30.56 0 0116.69-5 26.08 26.08 0 0114.72 4.24 25.42 25.42 0 019.53 11.83c2 5 3.08 12.64 3.08 22.72v44.15h-10.49v-44.14c0-8.67-.62-14.61-1.84-17.86a16.25 16.25 0 00-6.32-7.84 18.88 18.88 0 00-10.69-3 23.13 23.13 0 00-13.79 4.47 25.51 25.51 0 00-9.15 11.88q-2.88 7.43-2.87 24.82v31.67h-10.5v-41.38c0-9.77-.6-16.38-1.82-19.88A16.72 16.72 0 00391 78a18.27 18.27 0 00-10.76-3.17 23.25 23.25 0 00-13.48 4.34 25.74 25.74 0 00-9.27 11.71q-3 7.36-3 22.52v34.2H344zm223.56 0v81h-10.5V133.7a43.29 43.29 0 01-14.65 11.91 40.15 40.15 0 01-17.74 3.94 39.4 39.4 0 01-29.27-12.42 41.67 41.67 0 01-12.13-30.22 40.86 40.86 0 0112.24-29.83A39.88 39.88 0 01525 64.67a38.5 38.5 0 0118 4.18 40.24 40.24 0 0114.11 12.64V66.63zm-41.72 8.15A31.19 31.19 0 00498.28 91a32.7 32.7 0 000 32.59A31.53 31.53 0 00510 135.71a30.54 30.54 0 0015.78 4.34 31.9 31.9 0 0016.06-4.31 30 30 0 0011.72-11.62 33.22 33.22 0 004.11-16.52c0-9.35-3.08-17.13-9.21-23.41a30.33 30.33 0 00-22.62-9.41zm145.69-39.23V147.6H661v-13.9a43.23 43.23 0 01-14.63 11.91 39.87 39.87 0 01-17.69 3.94 39.23 39.23 0 01-29.2-12.42 41.7 41.7 0 01-12.08-30.22 40.93 40.93 0 0112.19-29.83A39.78 39.78 0 01629 64.67a37.86 37.86 0 0118 4.26 41 41 0 0114 12.71V35.55zm-41.62 39.23A31.1 31.1 0 00602.43 91a32.79 32.79 0 000 32.59 31.7 31.7 0 0011.66 12.12 30.32 30.32 0 0015.71 4.34 31.86 31.86 0 0016-4.31 30 30 0 0011.67-11.62 33.41 33.41 0 004.08-16.52c0-9.35-3.06-17.13-9.16-23.41a30.21 30.21 0 00-22.48-9.41zm143.73 8.47l-8.23 5.12c-7.18-9.44-16.88-14.17-29.25-14.17-9.88 0-18.06 3.18-24.6 9.53a31.19 31.19 0 00-9.78 23.17 33 33 0 004.51 16.68 31.41 31.41 0 0012.36 12.13 35.7 35.7 0 0017.6 4.34q17.85 0 29.16-14.18l8.23 5.42A39 39 0 01758 144.78a50.59 50.59 0 01-22.33 4.77q-19.23 0-31.91-12.17a39.44 39.44 0 01-12.69-29.59A42.42 42.42 0 01697 86a41.93 41.93 0 0116.29-15.69 47.86 47.86 0 0123.19-5.64 50.08 50.08 0 0115.55 2.44 43.59 43.59 0 0112.71 6.27 34 34 0 018.9 9.87zm100.6-16.62v81h-10.46V133.7a43.68 43.68 0 01-14.65 11.91 40.33 40.33 0 01-17.76 3.94 39.41 39.41 0 01-29.28-12.42A41.68 41.68 0 01790 106.91a40.84 40.84 0 0112.26-29.83 39.86 39.86 0 0129.45-12.41 38.56 38.56 0 0118 4.18 40.73 40.73 0 0114.13 12.64V66.63zm-41.71 8.15A31.25 31.25 0 00805 91a32.7 32.7 0 000 32.59 31.32 31.32 0 0011.71 12.12 30.38 30.38 0 0015.74 4.34 32 32 0 0016.08-4.31 29.9 29.9 0 0011.72-11.62 33.31 33.31 0 004.08-16.52c0-9.35-3.05-17.13-9.17-23.41a30.41 30.41 0 00-22.63-9.41zm65.09-8.15h10.49v14.86a41.13 41.13 0 0114.18-12.64 38.2 38.2 0 0117.88-4.18 40 40 0 0129.49 12.41 40.85 40.85 0 0112.27 29.83 41.73 41.73 0 01-12.16 30.22 40.89 40.89 0 01-47 8.4 44.56 44.56 0 01-14.63-12v43.57h-10.52zm41.72 8.15a30.39 30.39 0 00-22.63 9.41c-6.11 6.28-9.18 14.06-9.18 23.41a33.31 33.31 0 004.09 16.52 29.86 29.86 0 0011.73 11.62 32.33 32.33 0 0016.14 4.31 30.2 30.2 0 0015.66-4.34 31.58 31.58 0 0011.73-12.12 32.79 32.79 0 000-32.59 31.31 31.31 0 00-27.57-16.22zM347.09 217.54c4.8 6 11.93 10.35 22.28 10.35 8.08 0 15.4-2.53 15.4-8.38 0-13.9-40.86-2-40.86-22.32 0-11.19 11.49-15 21.83-15 16.51 0 22.53 7.06 25.05 10.63l-5.18 4.69c-4-5.19-10.32-8.83-20-8.83-9 0-14.09 2.81-14.09 8 0 12.71 40.88 1.24 40.88 22.3 0 11.26-11.09 15.38-23.69 15.38-10.88 0-19.92-3.08-27.22-11.62zm52.26-10.14c0-14 11.09-25.17 28.37-25.17S456 193.42 456 207.4c0 17.41-11.58 27-28.29 27s-28.36-9.59-28.36-27zm49 .95c0-8.94-5.8-19.63-20.66-19.63S407 199.41 407 208.35c0 11.75 7.9 19.54 20.77 19.54s20.61-7.79 20.61-19.54zm25.21-17.1h-12.39v-6.47h12.39V181c0-8.07 2.54-18.14 17.49-18.14 7.78 0 10.78.86 12.75 1.34v6.8a41.77 41.77 0 00-10.53-1.57c-10.49 0-12.08 5-12.08 12.19v3.21h20.2v6.47h-20.2v41.63h-7.63zm73.12-1.02h-19.52v29.69c0 5.34 2.34 8 10 8A51.57 51.57 0 00548 226.4v6.6a86.83 86.83 0 01-12.39 1.38c-16.09 0-16.09-9.76-16.09-13.71v-30.44H509.1v-6.49h10.41v-16.35h7.65v16.35h19.52zm6.61-6.49h7.78l16.35 40 15.22-40h7.16l15.2 40.12 16.16-40.12h8l-20.75 49.14h-7.23l-15-39.86-15 39.86h-7.25zm142.5 41.52a38.82 38.82 0 00.85 7.62H689a27.72 27.72 0 01-.93-5.94 44 44 0 01-24.55 7.42c-8.07 0-20-2.25-20-14.91 0-17 25.46-17.67 44.61-19.92v-1.89c0-6.67-7.94-9.21-15.74-9.21-13.06 0-17.69 5.47-20.13 8.25l-5.72-3.93c2.82-3.46 8.16-10.52 25.29-10.52 11.16 0 23.93 3.29 23.93 15.87zm-7.63-19.53c-22.36 2.14-37.37 4.22-37.37 13.72 0 7.7 8.64 8.71 12.4 8.71 10.63 0 20.12-5 25-7.68zm22.11-21.99h7.6V194c4.41-5 10.62-11.74 20.47-11.74a22.62 22.62 0 014.52.38v7.62a31.27 31.27 0 00-6.11-.69c-10.79 0-18.6 12.51-18.88 13.91v29.43h-7.6zm91.98 38.91c-5.11 5.34-10 11.71-26.7 11.71-16.52 0-27.81-11.25-27.81-26.28 0-15.58 11.75-25.85 26.9-25.85 15.66 0 29.38 8.18 29 27.63h-48.28c.75 9.2 8.17 18 20.94 18s16.92-5.72 20-9.58zm-6.86-19.28c-1.54-8.08-8.46-14.65-20.13-14.65-11.15 0-17.45 5.64-19.62 14.65zm-735.3-33.46v.17c1.24 26.21 20.42 48.31 45.59 52.58 26.73 4.52 53.06-9.47 62.58-33.29l.18-.48c0-.18.19-1.62.19-1.62a7.13 7.13 0 00-13.4-3.38l-.5 1c-7.19 17.11-26.73 26.95-46.62 23.58a40.6 40.6 0 01-33.76-38.4 7.13 7.13 0 10-14.26-.16z"/><path d="M3.55 153.3a112.91 112.91 0 0032.15 79c20.87 21.54 48.47 33.38 77.7 33.38 60.44 0 111.48-51.26 111.48-112a10.07 10.07 0 10-20.14 0c0 50.46-40.94 91.51-91.25 91.51a88.11 88.11 0 01-63.72-26.79 92.06 92.06 0 01-25.89-64.61c0-5.79-4.73-10.79-10.12-10.79a10.41 10.41 0 00-10.21 10.3zM110 51.38a28.88 28.88 0 01-20.3-8.32C50.36 51.14 19 78.2 5.64 115.61a14.56 14.56 0 00-.91 4.87 10.16 10.16 0 001.72 5.73c2.35 3.53 7.41 3.87 7.46 3.87H273.7a9.08 9.08 0 00-.21-18.13h-54.51l-.46-1.11a115.21 115.21 0 00-87.34-68.65A29.18 29.18 0 01110 51.38z"/><path d="M131.22 21.41A21.24 21.24 0 11110.15 0a21.23 21.23 0 0121.07 21.41zm88.78.15c-.05 4.91-17.89 8.73-39.9 8.54s-39.79-4.28-39.76-9.17 17.91-8.71 39.91-8.54S220 16.66 220 21.56zm-220 0c.05 4.91 17.89 8.73 39.89 8.54s39.8-4.28 39.77-9.17-17.91-8.71-39.91-8.54S0 16.66 0 21.56z"/></symbol><symbol id="logo-madworld" viewBox="0 0 530.9 66.5"><path d="M308.2 46.2c2 6.2 7.9 10.2 14.2 9.6 6.6-.6 12-5.6 12.7-11.9v-.1l-.1-.4c-.2-.9-1.2-1.5-2.1-1.2-.6.2-1.1.7-1.3 1.3l-.1.3c-.6 4.5-4.6 8.1-9.6 8.6-4.7.4-9-2.4-10.5-7-.3-1-1.2-1.5-2.2-1.3-.7.2-1.2 1.1-1 2.1z"/><path d="M293.7 45.8c1.9 7 6.4 13 12.7 16.7 6.3 3.8 13.6 4.8 20.6 3 14.3-3.8 23.2-19.3 19.3-33.7-.4-1.3-1.7-2.1-3-1.8-1.3.4-2.1 1.7-1.8 3 3.2 12-3.9 24.3-15.8 27.5-5.8 1.5-11.7.7-16.8-2.3-5.1-3-8.7-7.9-10.3-13.7-.4-1.4-1.8-2.3-3.1-1.9-1.3.5-2.1 1.9-1.8 3.2zm18.8-30.9c-1.8.5-3.7.2-5.3-.7-8.8 4.4-14.6 12.8-15.3 22.6 0 .4 0 .9.1 1.2.1.5.4.9.8 1.2.8.7 2 .4 2 .4l61.7-16.5c1.1-.4 1.7-1.5 1.4-2.7-.3-1.2-1.5-1.9-2.6-1.6l-12.9 3.5-.2-.2c-5.9-7.6-15.5-11.7-25.1-10.7-1.1 1.7-2.7 2.9-4.6 3.5zm3.2-8.5c.7 2.8-.9 5.6-3.7 6.4-2.8.7-5.6-1-6.4-3.7-.7-2.8 1-5.6 3.7-6.4 2.8-.8 5.6.9 6.4 3.7zm21-5.6C337 2 333 4 327.8 5.4c-5.2 1.4-9.7 1.5-10 .4-.3-1.2 3.7-3.2 8.9-4.6 5.2-1.4 9.7-1.6 10-.4zm-52.2 14c.3 1.2 4.8.9 10-.5s9.2-3.5 8.9-4.7c-.3-1.2-4.8-.9-10 .5s-9.2 3.5-8.9 4.7z"/><path d="M112 8.7c-.5-.9-1.5-1.5-2.6-1.5s-2.1.6-2.6 1.5L75.8 62c-.8 1.4-.3 3.3 1.1 4.1 1.4.8 3.3.3 4.1-1.1l8.3-14.2h40.4L138 65c.6 1 1.6 1.5 2.6 1.5.5 0 1-.1 1.5-.4 1.4-.8 1.9-2.7 1.1-4.1L112 8.7zM92.7 44.8l16.7-28.7 16.7 28.7H92.7zM66.1 7.3c-1.2-.4-2.6 0-3.3 1L34.1 45.4 5.4 8.3c-.8-1-2.1-1.4-3.3-1-1.2.4-2 1.6-2 2.8v53.1c0 1.7 1.3 3 3 3s3-1.3 3-3V19l25.7 33.2c.6.7 1.4 1.2 2.4 1.2s1.8-.4 2.4-1.2L62.1 19v44.4c0 1.7 1.3 3 3 3s3-1.3 3-3V10.2c0-1.3-.8-2.5-2-2.9zm210.1-.1c-1.7 0-3 1.3-3 3v44.4l-25.7-33.2c-.6-.7-1.4-1.2-2.4-1.2s-1.8.4-2.4 1.2L217 54.6V10.2c0-1.7-1.3-3-3-3s-3 1.3-3 3v53.2c0 1.3.8 2.4 2 2.8.3.1.6.2 1 .2.9 0 1.8-.4 2.4-1.2l28.7-37.1 28.7 37.1c.8 1 2.1 1.4 3.3 1 1.2-.4 2-1.6 2-2.8V10.2c.1-1.7-1.3-3-2.9-3zm-102.5 0l-20.1.1c-1.7 0-3 1.3-3 3v53.1c0 .8.3 1.6.9 2.1s1.3.9 2.1.9h20.1c16.3 0 29.6-13.3 29.6-29.6S190.1 7.2 173.7 7.2zm0 53.2h-17.1V13.3l17.1-.1c13 0 23.6 10.6 23.6 23.6s-10.5 23.6-23.6 23.6zM501.3 7.2l-20.1.1c-1.7 0-3 1.3-3 3v53.1c0 .8.3 1.6.9 2.1s1.3.9 2.1.9h20.1c16.3 0 29.6-13.3 29.6-29.6S517.7 7.2 501.3 7.2zm0 53.2h-17.1V13.3l17.1-.1c13 0 23.6 10.6 23.6 23.6s-10.5 23.6-23.6 23.6zm-34.4 0h-43.7V10.3c0-1.7-1.3-3-3-3s-3 1.3-3 3v53.1c0 1.7 1.3 3 3 3h46.7c1.7 0 3-1.3 3-3s-1.3-3-3-3zM388.8 7.2h-28.9c-1.7 0-3 1.3-3 3s1.3 3 3 3h28.9c8.2 0 14.8 6.6 14.8 14.8 0 8.2-6.6 14.8-14.8 14.8h-28.9c-1.7 0-3 1.3-3 3v17.5c0 1.7 1.3 3 3 3s3-1.3 3-3V48.8h25.4l9.4 16.1c.6 1 1.6 1.5 2.6 1.5.5 0 1-.1 1.5-.4 1.4-.8 1.9-2.7 1.1-4.1l-8.1-14c8.6-2.6 14.8-10.5 14.8-19.9 0-11.5-9.3-20.8-20.8-20.8z"/></symbol><symbol id="symbol-arrowLeft" viewBox="0 0 27.2 48.1"><path d="M23.9 0c.8 0 1.5.3 2.1.9C27.2 2 27.2 4 26 5.1L7.2 23.9 26.3 43c1.2 1.2 1.2 3.1 0 4.2-1.2 1.2-3.1 1.2-4.2 0L.9 26c-1.2-1.2-1.2-3.1 0-4.2L21.7.9c.6-.6 1.4-.9 2.2-.9z"/></symbol><symbol id="symbol-arrowRight" viewBox="0 0 27.2 48.1"><path d="M3.4 48.1c-.8 0-1.5-.3-2.1-.9C.1 46 .1 44.1 1.3 43L20 24.2.9 5.1C-.3 3.9-.3 2 .9.9 2.1-.3 4-.3 5.1.9l21.2 21.2c1.2 1.2 1.2 3.1 0 4.2L5.5 47.2c-.6.6-1.4.9-2.1.9z"/></symbol><symbol id="symbol-chevronUp" viewBox="0 0 48.1 27.17"><path d="M45.1 27.17c-.77 0-1.54-.29-2.12-.88L23.9 7.21 5.12 25.99a3 3 0 01-4.24 0 3 3 0 010-4.24L21.78.85c1.13-1.13 3.12-1.13 4.24 0l21.2 21.2a3 3 0 01-2.12 5.12z"/></symbol><symbol id="symbol-doubleArrow-665" viewBox="0 0 49.4 39.8"><path d="M4.8 0L0 4.8l15.1 15.1L0 35l4.8 4.8 19.9-19.9L4.8 0zm24.7 0l-4.8 4.8 15.1 15.1L24.7 35l4.8 4.8 19.9-19.9L29.5 0z" fill="#242729"/></symbol><symbol id="symbol-doubleArrow" viewBox="0 0 49.4 39.8"><path d="M4.8 0L0 4.8l15.1 15.1L0 35l4.8 4.8 19.9-19.9zm24.7 0l-4.8 4.8 15.1 15.1L24.7 35l4.8 4.8 19.9-19.9z"/></symbol><symbol id="symbol-doubleArrowRight" viewBox="0 0 16 12"><path d="M4.7 6L0 1.5 1.5 0l6.2 6-6.2 6L0 10.5 4.7 6zm8.2 0L8.2 1.5 9.8 0 16 6l-6.2 6-1.5-1.5L12.9 6z"/></symbol><symbol id="symbol-quoteLeft" viewBox="0 0 17.11 14.4"><path d="M6.65 7.74H3.43a5.46 5.46 0 01.91-3.15A5.59 5.59 0 017.2 2.75L5.9 0a9.59 9.59 0 00-3.5 2.08 7 7 0 00-1.88 3A16.22 16.22 0 000 9.64v4.76h6.65zm9.91 0h-3.22a5.46 5.46 0 01.91-3.15 5.59 5.59 0 012.85-1.85L15.8 0a9.73 9.73 0 00-3.49 2.08 6.92 6.92 0 00-1.89 3 16.19 16.19 0 00-.51 4.57v4.75h6.65z"/></symbol><symbol id="symbol-quoteLeftT2" viewBox="0 0 75.28 65.01"><path d="M70.04 65.01H42.77c-1.66 0-3-1.34-3-3v-19.5c0-8.34.73-14.75 2.22-19.61 1.53-5 4.41-9.55 8.56-13.51 4.07-3.9 9.24-6.99 15.37-9.2 1.45-.52 3.07.14 3.73 1.54l5.34 11.26c.37.78.39 1.67.05 2.46s-1 1.4-1.81 1.67c-4.81 1.6-8.24 3.79-10.22 6.49-1.53 2.1-2.51 4.83-2.93 8.14h9.97c1.66 0 3 1.34 3 3v27.26c-.01 1.65-1.35 3-3.01 3zm-24.27-6h21.27V37.74h-10.2c-.81 0-1.58-.33-2.15-.9s-.87-1.36-.85-2.17c.14-5.97 1.59-10.88 4.31-14.6 2.23-3.05 5.59-5.54 10.01-7.45l-2.75-5.79c-4.23 1.81-7.83 4.12-10.73 6.89-3.39 3.25-5.74 6.93-6.97 10.94-1.3 4.22-1.96 10.22-1.96 17.85v16.5h.02zm-15.5 6H3c-1.66 0-3-1.34-3-3v-19.5c0-8.27.72-14.67 2.22-19.56 1.53-5.03 4.39-9.59 8.5-13.56 4.04-3.9 9.24-7 15.44-9.21 1.45-.52 3.06.15 3.72 1.54l5.34 11.26c.37.78.39 1.67.05 2.46s-1 1.4-1.81 1.67c-4.81 1.6-8.24 3.79-10.22 6.49-1.53 2.1-2.52 4.83-2.94 8.14h9.97c1.66 0 3 1.34 3 3v27.27c0 1.66-1.35 3-3 3zM6 59.01h21.27V37.74h-10.2c-.81 0-1.58-.33-2.15-.9s-.87-1.36-.85-2.17c.14-5.97 1.59-10.88 4.31-14.6 2.22-3.05 5.58-5.54 10.01-7.45l-2.75-5.8c-4.28 1.81-7.89 4.12-10.76 6.89-3.36 3.25-5.69 6.95-6.93 10.99C6.66 28.95 6 34.94 6 42.51v16.5z"/></symbol><symbol id="symbol-quoteRight" viewBox="0 0 17.18 14.42"><path d="M10.52 6.65h3.2a5.34 5.34 0 01-.89 3.15A5.59 5.59 0 0110 11.65l1.3 2.77a9.64 9.64 0 003.49-2.1 7 7 0 001.89-3 16.1 16.1 0 00.51-4.55V0h-6.67zm-10 0h3.25a5.52 5.52 0 01-.9 3.15A5.53 5.53 0 010 11.65l1.3 2.77a9.61 9.61 0 003.52-2.1 6.9 6.9 0 001.88-3 16.46 16.46 0 00.5-4.55V0H.54z"/></symbol><symbol id="symbol-quoteRightT2" viewBox="0 0 75.27 65.01"><path d="M5.23 0H32.5c1.66 0 3 1.34 3 3v19.5c0 8.34-.73 14.75-2.22 19.61-1.53 5-4.41 9.55-8.56 13.51-4.07 3.9-9.24 6.99-15.37 9.2-1.45.52-3.07-.14-3.73-1.54L.29 52.03c-.37-.78-.39-1.67-.05-2.46s1-1.4 1.81-1.67c4.81-1.6 8.24-3.79 10.22-6.49 1.53-2.1 2.51-4.83 2.93-8.14H5.23c-1.66 0-3-1.34-3-3V3c0-1.66 1.34-3 3-3zM29.5 6H8.23v21.27h10.2c.81 0 1.58.33 2.15.9s.87 1.36.85 2.17c-.14 5.97-1.59 10.88-4.31 14.6-2.23 3.05-5.59 5.54-10.01 7.45l2.75 5.79c4.23-1.81 7.83-4.12 10.73-6.89 3.39-3.25 5.74-6.93 6.97-10.94 1.3-4.22 1.96-10.22 1.96-17.85V6h-.02zM45 0h27.27c1.66 0 3 1.34 3 3v19.5c0 8.27-.72 14.67-2.22 19.56-1.53 5.03-4.39 9.59-8.5 13.56-4.04 3.9-9.24 7-15.44 9.21-1.45.52-3.06-.15-3.72-1.54l-5.34-11.26c-.37-.78-.39-1.67-.05-2.46s1-1.4 1.81-1.67c4.81-1.6 8.24-3.79 10.22-6.49 1.53-2.1 2.52-4.83 2.94-8.14H45c-1.66 0-3-1.34-3-3V3c0-1.66 1.35-3 3-3zm24.27 6H48v21.27h10.2c.81 0 1.58.33 2.15.9s.87 1.36.85 2.17c-.14 5.97-1.59 10.88-4.31 14.6-2.22 3.05-5.58 5.54-10.01 7.45l2.75 5.8c4.28-1.81 7.89-4.12 10.76-6.89 3.36-3.25 5.69-6.95 6.93-10.99 1.3-4.25 1.96-10.24 1.96-17.81L69.27 6z"/></symbol><symbol id="symbol-trippleArrowRight" viewBox="0 0 74.1 39.8"><path d="M4.8 0L0 4.8l15.1 15.1L0 35l4.8 4.8 19.9-19.9zm24.7 0l-4.8 4.8 15.1 15.1L24.7 35l4.8 4.8 19.9-19.9zm24.7 0l-4.8 4.8 15.1 15.1L49.4 35l4.8 4.8 19.9-19.9z"/></symbol><symbol id="symbol-x" viewBox="0 0 35.6 35.6"><path d="M22.1 17.8L34.7 5.1c1.2-1.2 1.2-3.1 0-4.2-1.2-1.2-3.1-1.2-4.2 0L17.8 13.6 5.1.9C4-.3 2-.3.9.9-.3 2.1-.3 4 .9 5.1l12.7 12.7L.9 30.5c-1.2 1.2-1.2 3.1 0 4.2.6.6 1.4.9 2.1.9.8 0 1.5-.3 2.1-.9L17.8 22l12.7 12.7c.6.6 1.4.9 2.1.9s1.5-.3 2.1-.9c1.2-1.2 1.2-3.1 0-4.2L22.1 17.8z"/></symbol></svg>
+</div>
+    
+                <div id="mcTopBannerOuter"><div class="mcTopBannerWrapper"><div id="mcTopBanner-activeSlide" style="opacity: 1; transition: opacity 0ms ease-in-out 0s;"><div class="mcTopBanner" id="topBannerMadWorld"><div class="container container-1200"><div class="bs-row"><div class="col-12"><div class="mcTopBanner-section1 p-1 d-flex  align-items-center mb-0 justify-content-center"><img class="mcTopBanner-icon1" src="https://f1.madcapsoftware.com/websiteImages/madworld/2020/icons/icon-mw2020SmallRectangle.svg" alt="MadWorld Austin Icon" width="59.81" height="38"><p class="mcTopBanner-title mb-0 text-md-lg">The Premier Technical Communication and Learning &amp; Development Conference | June12-15, 2022</p><a href="https://www.madcapsoftware.com/madworld-conferences/madworld-2022/" class="buttonT25-white-sm-bordered ml-1" target="_blank" rel="noopener"><strong>Register Now</strong> <svg width="10" height="10" class="buttonT25-symbol-doubleArrow"><use xmlnsXlink="http://www.w3.org/1999/xlink" xlink:href="#symbol-doubleArrowRight"></use></svg></a></div></div></div></div><span class="mcTopBanner-closeButton"><svg width="13" height="13"><use xmlnsXlink="http://www.w3.org/1999/xlink" xlink:href="#symbol-x"></use></svg></span></div></div></div></div>            
+
+<div class="narrowNav">
+    <a class="narrowNav-logo" href="https://www.madcapsoftware.com">
+        <svg width="40" height="36" role="img">
+            <title>MadCap Software Simon Logo</title>
+            <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-simonAngled"></use>
+        </svg></a>
+    <div class="narrowNav-topLevel">
+        <a class="buttonT28 megaTop-searchButton" href="https://www.madcapsoftware.com/search.aspx">
+            <svg width="20" height="21">
+                <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-search"></use>
+            </svg>
+        </a>
+        <button title="menu" data-show-mega="dropdown-narrow" class="narrowNav-menuButton dropdownLink">
+            <svg width="20" height="14">
+                <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-hamburger"></use>
+            </svg>
+        </button>
+    </div>
+</div>
+<div class="narrowNav-dropdowns">
+    <div id="dropdown-narrow"
+        class="mcMegaDropdown mcMegaDropdown-opacity-0 mcMegaDropdown-visibility-hidden mcMegaDropdown-height-0">
+        <div class="MenuDropDown">
+
+            <div class="mcMegaDropdown-inner" style="flex-direction: column; padding: 40px;">
+                <button title="close menu" class="closeIcon mcMegaDropdown-closeButton" data-hide-mega="dropdown-narrow"
+                    style="width: 34px; height: 34px;">
+                    <svg width="14" height="14">
+                        <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#symbol-x"></use>
+                    </svg>
+                </button>
+                <div class="mb-4 narrowNav-dropdownSection1">
+                    <p class="h-xxs textAlign-left mb-2">The Complete Solution</p>
+                    <!--AMS-->
+                    <a href="https://www.madcapsoftware.com/products/authoring-management-system/" class="flexBox-row">
+                        <!-- picture -->
+                        <div class="narrowNav-itemT1-icon">
+                            <img data-src="https://f1.madcapsoftware.com/websiteImages/icons/icon-ams.svg"
+                                alt="AMS Logo" width="38" height="38" class="AMSLogo logoHover Sirv" />
+                        </div>
+                        <!--text-->
+                        <div class="mcMegaDropdown-link-inner">
+                            <p class="bodyCopy2 mcMegaDropdown-link-title">MadCap Authoring &amp; Management System</p>
+                        </div>
+
+                    </a>
+
+
+
+                </div>
+
+                <div class="narrowNav-dropdownSection1">
+                    <p class="h-xxs textAlign-left mb-2">Individual Products</p>
+                    <div class="flexBox-row">
+                        <!--Flare-->
+                        <a href="https://www.madcapsoftware.com/products/flare/" class="flexBox-row narrowNav-itemT1">
+                            <div class="narrowNav-itemT1-icon">
+                                <img data-src="https://f1.madcapsoftware.com/websiteImages/icons/menuIconsV2/icon-flare.svg"
+                                    alt="Flare Logo" width="37" height="38" class="FlareLogo logoHover Sirv" />
+                            </div>
+                            <!--text-->
+                            <div class="mcMegaDropdown-link-inner">
+                                <p class="bodyCopy2 mcMegaDropdown-link-title">MadCap Flare</p>
+
+                            </div>
+                            <!-- picture -->
+
+                        </a>
+
+                        <!--Central-->
+                        <a href="https://www.madcapsoftware.com/products/central/" class="flexBox-row narrowNav-itemT1">
+
+                            <!-- picture -->
+                            <div class="narrowNav-itemT1-icon">
+                                <img data-src="https://f1.madcapsoftware.com/websiteImages/icons/menuIconsV2/icon-centralUpdate.svg"
+                                    alt="Central Logo" width="39" height="37" class=" logoHover Sirv" />
+                            </div>
+                            <!-- text -->
+                            <div class="mcMegaDropdown-link-inner">
+                                <p class="bodyCopy2 mcMegaDropdown-link-title">MadCap Central</p>
+
+                            </div>
+                        </a>
+                    </div>
+                    <div class="flexBox-row">
+                        <!--Contributor Link-->
+                        <a href="https://www.madcapsoftware.com/products/contributor/" class="flexBox-row narrowNav-itemT1">
+                            <!-- picture -->
+                            <div class="narrowNav-itemT1-icon">
+                                <img data-src="https://f1.madcapsoftware.com/websiteImages/icons/menuIconsV2/icon-contributor.svg"
+                                    class="ContributorLogo Sirv" width="38" height="39" alt="MadCap Contributor Logo ">
+                            </div>
+                            <div class="mcMegaDropdown-link-inner">
+                                <!-- text -->
+                                <p class="bodyCopy2 mcMegaDropdown-link-title">MadCap Contributor</p>
+
+                            </div>
+                        </a>
+                        <!--Lingo Link-->
+                        <a href="https://www.madcapsoftware.com/products/lingo/" class="flexBox-row narrowNav-itemT1">
+                            <!-- picture -->
+                            <div class="narrowNav-itemT1-icon">
+                                <img data-src="https://f1.madcapsoftware.com/websiteImages/icons/menuIconsV2/icon-lingo.svg"
+                                    width="40" height="45" alt="MadCap Lingo Logo" class="LingoLogo Sirv">
+                            </div>
+                            <div class="mcMegaDropdown-link-inner">
+                                <!-- text -->
+                                <p class="bodyCopy2 mcMegaDropdown-link-title">MadCap Lingo</p>
+
+                            </div>
+
+
+
+                        </a>
+                    </div>
+                    <div class="flexBox-row">
+
+                        <!--Mimic Link-->
+                        <a href="https://www.madcapsoftware.com/products/flare/#CaptureMimic"
+                            class="flexBox-row narrowNav-itemT1">
+                            <!-- picture -->
+                            <div class="narrowNav-itemT1-icon">
+                                <img style="position: relative; right: -2px;"
+                                    data-src="https://f1.madcapsoftware.com/websiteImages/icons/menuIconsV2/icon-mimic.svg"
+                                    width="40" height="37" alt="MadCap Contributor Logo" class="MimicLogo Sirv">
+                            </div>
+                            <div class="mcMegaDropdown-link-inner">
+                                <!-- text -->
+                                <p class="bodyCopy2 mcMegaDropdown-link-title">MadCap Mimic</p>
+
+                            </div>
+
+
+                        </a>
+                        <!--Capture Link-->
+                        <a href="https://www.madcapsoftware.com/products/flare/#CaptureMimic"
+                            class="flexBox-row narrowNav-itemT1">
+                            <!-- picture -->
+                            <div class="narrowNav-itemT1-icon">
+                                <img data-src="https://f1.madcapsoftware.com/websiteImages/icons/menuIconsV2/icon-capture.svg"
+                                    width="39" height="39" alt="MadCap Capture Logo" class="CaptureLogo Sirv">
+                            </div>
+                            <div class="mcMegaDropdown-link-inner">
+                                <!-- text -->
+                                <p class="bodyCopy2 mcMegaDropdown-link-title">MadCap Capture</p>
+
+                            </div>
+
+
+                        </a>
+                    </div>
+
+                    <div class="container-fluid mt-2">
+                        <div class="bs-row">
+                            <div class="col-md-6">
+                                <a class="buttonT15 buttonT15DarkNoShade mx-auto mb-2 mb-md-0 mb-lg-0 mb-xl-0"
+                                    style="min-width: 100%; align-self: center;"
+                                    href="https://www.madcapsoftware.com/demo-request/">Get a Demo</a>
+                            </div>
+
+                        </div>
+                    </div>
+
+                </div>
+
+
+
+                <hr class="divider marginTop-sm">
+
+                <div class="mb-2 narrowNav-dropdownSection2">
+                    <a class="narrowNav-smallLink narrowNav-itemT1" href="https://www.madcapsoftware.com/products/">
+                        <p class="bodyCopy2 mcMegaDropdown-link-title">All Products</p>
+                    </a>
+                    <a class="narrowNav-smallLink narrowNav-itemT1" href="https://www.madcapsoftware.com/customers/">
+                        <p class="bodyCopy2 mcMegaDropdown-link-title">Customers</p>
+                    </a>
+                    <a class="narrowNav-smallLink narrowNav-itemT1" href="https://www.madcapsoftware.com/industries/">
+                        <p class="bodyCopy2 mcMegaDropdown-link-title">Industries</p>
+                    </a>
+                    <a class="narrowNav-smallLink narrowNav-itemT1" href="https://www.madcapsoftware.com/resources/">
+                        <p class="bodyCopy2 mcMegaDropdown-link-title">Resources</p>
+                    </a>
+                    <a class="narrowNav-smallLink narrowNav-itemT1" href="https://www.madcapsoftware.com/services/">
+                        <p class="bodyCopy2 mcMegaDropdown-link-title">Services</p>
+                    </a>
+                    <a class="narrowNav-smallLink narrowNav-itemT1" href="https://www.madcapsoftware.com/solutions/">
+                        <p class="bodyCopy2 mcMegaDropdown-link-title">Solutions</p>
+                    </a>
+                    <a class="narrowNav-smallLink narrowNav-itemT1" href="https://www.madcapsoftware.com/support/">
+                        <p class="bodyCopy2 mcMegaDropdown-link-title">Support</p>
+                    </a>
+                    <a class="narrowNav-smallLink narrowNav-itemT1" href="https://www.madcapsoftware.com/search.aspx">
+                        <p class="bodyCopy2 mcMegaDropdown-link-title">Search...</p>
+                    </a>
+
+                </div>
+                <div class="container-fluid">
+                    <div class="bs-row">
+                        <div class="col-md-6">
+                            <a class="buttonT15 buttonT15DarkNoShade mx-auto mb-2 mb-md-0 mb-lg-0 mb-xl-0"
+                                style="min-width: 100%; align-self: center;"
+                                href="https://www.madcapsoftware.com/free-trials/">FREE 30-DAY TRIALS</a>
+                        </div>
+                        <div class="col-md-6">
+                            <a class="buttonT15 buttonT15DarkNoShade mx-auto"
+                                style="min-width: 100%; align-self: center;"
+                                href="https://www.madcapsoftware.com/pricing/">Pricing</a>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+    </div>
+</div>
+
+<!-- mega top -->
+<div class="megaTop-wrapper">
+    <div class="megaTop megaBottom-dropdowns-hidden">
+        <!-- logo -->
+        <a class="megaTop-logo" href="https://www.madcapsoftware.com">
+
+            <svg width="149" height="40" role="img">
+                <title>MadCap Software Logo</title>
+                <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#logo-madcap"></use>
+            </svg>
+        </a>
+        <a class="megaTop-logo-small" href="https://www.madcapsoftware.com" style="display: none;">
+            <svg width="40" height="36">
+                <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-simonAngled"></use>
+            </svg>
+        </a>
+        <div class="megaTop-section1">
+            <a data-show-mega="dropdown-products"
+                class="dropdownLink dropdownLink-products buttonT29 "
+                href="https://www.madcapsoftware.com/products/">Products</a>
+            <a data-show-mega="dropdown-solutions"
+                class="dropdownLink dropdownLink-solutions buttonT29 "
+                href="https://www.madcapsoftware.com/industries/">Industries</a>
+            <a data-show-mega="dropdown-services"
+                class="dropdownLink dropdownLink-services buttonT29 "
+                href="https://www.madcapsoftware.com/services/">Services</a>
+            <a data-show-mega="dropdown-support"
+                class="megaTop-large-button dropdownLink dropdownLink-support buttonT29 "
+                href="https://www.madcapsoftware.com/support/">Support</a>
+            <a data-show-mega="dropdown-support"
+                class="megaTop-small-button dropdownLink dropdownLink-support buttonT29 "
+                href="https://www.madcapsoftware.com/support/" style="display: none;">Support</a>
+            <a data-show-mega="dropdown-customers"
+                class="megaTop-large-button dropdownLink dropdownLink-customers buttonT29 "
+                href="https://www.madcapsoftware.com/customers/">Customers</a>
+            <a data-show-mega="dropdown-customers"
+                class="megaTop-small-button dropdownLink dropdownLink-customers buttonT29 "
+                href="https://www.madcapsoftware.com/customers/" style="display: none;">Customers</a>
+            <a data-show-mega="dropdown-resources"
+                class="dropdownLink dropdownLink-resources buttonT29 "
+                href="https://www.madcapsoftware.com/resources/">Resources</a>
+            <a class=" buttonT29 " href="https://www.madcapsoftware.com/pricing/">Pricing</a>
+            <a class=" buttonT29" href="https://www.madcapsoftware.com/contact-us/">Contact</a>
+            <!-- Search Button -->
+            <a data-show-mega="dropdown-search" class="megaTop-searchButton dropdownLink dropdownLink-search"
+                href="https://www.madcapsoftware.com/search.aspx">
+                <svg width="20" height="21" class="search-svg">
+                    <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-searchT2"></use>
+                </svg>
+            </a>
+            <!--FreeTrials Button -->
+            <a class="megaTop-freeTrialsButton" href="https://www.madcapsoftware.com/free-trials/">Try Free</a>
+            <!--Demo Request Button -->
+            <a class="megaTop-getDemoButton" href="https://www.madcapsoftware.com/demo-request/">Get a Demo</a>
+
+        </div>
+
+    </div>
+</div>
+
+<div class="megaDropdowns mcMegaDropdowns">
+
+    <!---------------------------------------->
+    <!------------ Search Dropdown ------------>
+    <!----------------------------------------->
+
+    <div id="dropdown-search"
+        class="container-fluid mcMegaDropdown mcMegaDropdown-search mcMegaDropdown-opacity-0 mcMegaDropdown-visibility-hidden mcMegaDropdown-height-0">
+
+        <div class="mcMegaDropdown-wrapper">
+            <!--Close Button-->
+            <button class="mcMegaDropdown-closeButton megaTop-searchDropdown-closeButton"
+                data-hide-mega="dropdown-search">
+                <svg width="14" height="14">
+                    <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#symbol-x"></use>
+                </svg>
+            </button>
+            <div class="mcMegaDropdown-inner">
+                <div class="mcMegaDropdown-section" style="width: 100%;">
+                    <div class="megaTop-searchForm">
+                        <div class="megaTop-search" style="position: relative;">
+                            <div class="megaTop-searchInput" id="megaTop-searchInput"
+                                style="padding-bottom: 9px; height: 54px;">
+                                Loading &hellip;
+                            </div>
+                            <span class="megaTop-searchSubmit">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="12" viewBox="0 0 65.1 48.1"
+                                    overflow="visible">
+                                    <defs></defs>
+                                    <path
+                                        d="M64.7 25.3c.1-.1.1-.2.1-.3 0-.1.1-.2.1-.3 0-.1.1-.2.1-.3.1-.4.1-.8 0-1.2 0-.1-.1-.2-.1-.3 0-.1-.1-.2-.1-.3 0-.1-.1-.2-.1-.3 0-.1-.1-.2-.1-.2-.1-.2-.2-.3-.4-.5L43.4.9c-1.2-1.2-3.1-1.2-4.2 0C38 2.1 38 4 39.2 5.1l15.7 15.7H3c-1.7 0-3 1.3-3 3s1.3 3 3 3h51.9L38.8 43c-1.2 1.2-1.2 3.1 0 4.2.6.6 1.4.9 2.1.9s1.5-.3 2.1-.9L64.2 26c.1-.1.3-.3.4-.5.1-.1.1-.1.1-.2z">
+                                    </path>
+                                </svg>
+
+                            </span>
+                        </div>
+                    </div>
+                    <div id="megaTop-searchResponse"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!----------------------------------------->
+    <!----------- Products Dropdown ----------->
+    <!----------------------------------------->
+
+    <div id="dropdown-products"
+        class="mcMegaDropdown mcMegaDropdown-products  mcMegaDropdown-opacity-0 mcMegaDropdown-visibility-hidden mcMegaDropdown-height-0">
+        <div class="gridV1 mcMegaDropdown-wrapper">
+            <div class="grid-container ">
+                <!--Header Area--->
+                <div class="mcmegadropdown-item1-header"></div>
+                <div class="mcmegadropdown-item2-close">
+                    <button class="mcMegaDropdown-closeButton" data-hide-mega="dropdown-customer-success">
+                        <svg width="14" height="14">
+                            <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#symbol-x"></use>
+                        </svg>
+                    </button>
+                </div>
+                <!--Main Section--->
+                <div class="mcmegadropdown-item3-left" style="max-width: 460px;">
+                    <!--Products Grid-->
+                    <div class="mcMegaDropdown-row mb-6">
+                        <!--AMS-->
+                        <a href="https://www.madcapsoftware.com/products/authoring-management-system/"
+                            class="mcMegaDropdown-link mcMegaDropdown-link-md">
+
+                            <!--text-->
+                            <div class="mcMegaDropdown-link-inner">
+                                <p class="bodyCopy2 mcMegaDropdown-link-title d-flex flex-column"><img class="mb-1"
+                                        src="https://f1.madcapsoftware.com/websiteImages/icons/icon-newRelease.svg"
+                                        alt="New Release Icon" width="115" height="20">MadCap
+                                    Authoring and Management System
+
+                                </p>
+                                <p class="bodyCopy5 mcMegaDropdown-link-description mb-0">A Complete
+                                    Solution
+                                    Supporting the Entire Content Development Lifecycle
+
+                                </p>
+                            </div>
+                            <!-- picture -->
+                            <div class="mcMegaDropdown-link-icon" style="flex: 0 0 112px;">
+                                <img data-src="https://f1.madcapsoftware.com/websiteImages/icons/icon-amsGradient.svg"
+                                    alt="AMS Logo" width="100" height="50" data-options="autostart:off" class="Sirv">
+                            </div>
+                        </a>
+
+                        <!--Flare-->
+                        <a href="https://www.madcapsoftware.com/products/flare/"
+                            class="mcMegaDropdown-link mcMegaDropdown-link-md">
+
+                            <!--text-->
+                            <div class="mcMegaDropdown-link-inner">
+                                <p class="bodyCopy2 mcMegaDropdown-link-title d-flex flex-column"><img class="mb-1"
+                                        src="https://f1.madcapsoftware.com/websiteImages/icons/icon-newRelease.svg"
+                                        alt="New Release Icon" width="115" height="20">MadCap Flare
+                                </p>
+                                <p class="bodyCopy5 mcMegaDropdown-link-description mb-0">
+                                    Cutting-edge Technical Authoring<br>
+                                    and Publishing
+                                </p>
+                            </div>
+                            <!-- picture -->
+                            <div class="mcMegaDropdown-link-icon">
+                                <img data-src="https://f1.madcapsoftware.com/websiteImages/icons/menuIconsV2/icon-flare.svg"
+                                    alt="Flare Logo" width="70" height="70" data-options="autostart:off" class="Sirv">
+                            </div>
+                        </a>
+                        <!--Central-->
+                        <a href="https://www.madcapsoftware.com/products/central/"
+                            class="mcMegaDropdown-link mcMegaDropdown-link-md">
+                            <!-- text -->
+                            <div class="mcMegaDropdown-link-inner">
+                                <p class="bodyCopy2 mcMegaDropdown-link-title d-flex flex-column"><img class="mb-1"
+                                        src="https://f1.madcapsoftware.com/websiteImages/icons/icon-newRelease.svg"
+                                        alt="New Release Icon" width="115" height="20">MadCap Central
+                                </p>
+                                <p class="bodyCopy5 mcMegaDropdown-link-description mb-0">
+                                    Cloud-based
+                                    Editing, Publishing, Project and Content Management
+                                </p>
+                            </div>
+                            <!-- picture -->
+                            <div class="mcMegaDropdown-link-icon">
+                                <img data-src="https://f1.madcapsoftware.com/websiteImages/icons/menuIconsV2/icon-centralUpdate.svg"
+                                    alt="Central Logo" width="69" height="66" data-options="autostart:off" class="Sirv">
+                            </div>
+                        </a>
+                        <!--Product Workflow Summary-->
+                        <a href="https://www.madcapsoftware.com/products/#Workflow"
+                            class="mcMegaDropdown-link-transparent font-weight-bold" style="padding-left: 15px;">Product
+                            Workflow Summary
+
+                        </a>
+                        <!--Additional Supporting Products-->
+                        <a href="https://www.madcapsoftware.com/products/#supporting"
+                            class="mcMegaDropdown-link-transparent  font-weight-bold"
+                            style="padding-left: 15px;">Additional Supporting Products</p>
+
+                        </a>
+                    </div>
+
+                    <a href="https://www.madcapsoftware.com/products/" class="mcMegaDropdown-viewPage">Products Summary <svg
+                            xmlns="http://www.w3.org/2000/svg" width="16" height="12" viewBox="0 0 65.1 48.1"
+                            overflow="visible">
+                            <defs />
+                            <path
+                                d="M64.7 25.3c.1-.1.1-.2.1-.3 0-.1.1-.2.1-.3 0-.1.1-.2.1-.3.1-.4.1-.8 0-1.2 0-.1-.1-.2-.1-.3 0-.1-.1-.2-.1-.3 0-.1-.1-.2-.1-.3 0-.1-.1-.2-.1-.2-.1-.2-.2-.3-.4-.5L43.4.9c-1.2-1.2-3.1-1.2-4.2 0C38 2.1 38 4 39.2 5.1l15.7 15.7H3c-1.7 0-3 1.3-3 3s1.3 3 3 3h51.9L38.8 43c-1.2 1.2-1.2 3.1 0 4.2.6.6 1.4.9 2.1.9s1.5-.3 2.1-.9L64.2 26c.1-.1.3-.3.4-.5.1-.1.1-.1.1-.2z" />
+                        </svg>
+                    </a>
+                </div>
+                <!--Side Section--->
+                <div class="mcmegadropdown-item4-right"
+                    style="grid-area: right; padding-top: 0; padding-bottom: 0;  padding-left: 40px; padding-right: 40px; border-left: 1px solid #a1a8ac;">
+                    <p class="mcMegaDropdown-title mb-4">By Use Case</p>
+
+                    <a href="https://www.madcapsoftware.com/solutions/technical-documentation-and-online-help/"
+                        class="mcMegaDropdown-row mb-4 mcMegaDropdown-link-transparent">
+                        <p class="bodyCopy2 mb-0 font-weight-bold">Technical Documentation</p>
+                        <!--Technical Documentation and Online Help-->
+                        <p class="bodyCopy4">Technical Documentation, Self-Service Support Sites and Online Help,
+                            Knowledge Bases and More
+                        </p>
+
+
+
+                        <!--Knowledge Bases and Corporate Intranets-->
+                        <p class="bodyCopy4">Policies &amp; Procedures, API and SDK
+                            Documentation
+                        </p>
+
+                        <!--Medical, Regulatory and Compliance Documents-->
+                        <p class="bodyCopy4">Medical, Regulatory and Compliance Documents
+                        </p>
+
+                    </a>
+                    <a href="https://www.madcapsoftware.com/solutions/learning-and-development/"
+                        class="mcMegaDropdown-row mcMegaDropdown-link-transparent mb-6">
+
+                        <p class="bodyCopy2 mb-0 font-weight-bold">Learning &amp; Development</p>
+                        <!--Learning & Development-->
+                        <p class="bodyCopy4">Learning &amp; Development Programs
+                        </p>
+
+                        <!--Knowledge Bases and Corporate Intranets-->
+                        <p class="bodyCopy4">Training Manuals and eLearning Guides
+                        </p>
+
+                        <!--Translation Management and CAT Tools-->
+                        <p class="bodyCopy4">Interactive eLearning Courses
+                        </p>
+
+                    </a>
+                    <a href="https://www.madcapsoftware.com/solutions/" class="mcMegaDropdown-viewPage">Solutions Overview
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="12" viewBox="0 0 65.1 48.1"
+                            overflow="visible">
+                            <defs />
+                            <path
+                                d="M64.7 25.3c.1-.1.1-.2.1-.3 0-.1.1-.2.1-.3 0-.1.1-.2.1-.3.1-.4.1-.8 0-1.2 0-.1-.1-.2-.1-.3 0-.1-.1-.2-.1-.3 0-.1-.1-.2-.1-.3 0-.1-.1-.2-.1-.2-.1-.2-.2-.3-.4-.5L43.4.9c-1.2-1.2-3.1-1.2-4.2 0C38 2.1 38 4 39.2 5.1l15.7 15.7H3c-1.7 0-3 1.3-3 3s1.3 3 3 3h51.9L38.8 43c-1.2 1.2-1.2 3.1 0 4.2.6.6 1.4.9 2.1.9s1.5-.3 2.1-.9L64.2 26c.1-.1.3-.3.4-.5.1-.1.1-.1.1-.2z" />
+                        </svg>
+                    </a>
+
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+
+    <!----------------------------------------->
+    <!-- Industries Dropdown ------------------>
+    <!----------------------------------------->
+
+
+    <div id="dropdown-solutions"
+        class="mcMegaDropdown mcMegaDropdown-solutions mcMegaDropdown-gridT1 mcMegaDropdown-opacity-0 mcMegaDropdown-visibility-hidden mcMegaDropdown-height-0">
+
+        
+
+        <div class="gridV4 mcMegaDropdown-wrapper">
+            <div class="grid-container">
+                <!--Header Area--->
+                <div class="mcmegadropdown-item1-header"></div>
+                <div class="item2-close">
+                    <button class="mcMegaDropdown-closeButton" data-hide-mega="dropdown-customer-success">
+                        <svg width="14" height="14">
+                            <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#symbol-x"></use>
+                        </svg>
+                    </button>
+                </div>
+                <!--Main Sections--->
+                <div class="mcmegadropdown-item3-left">
+
+                    <!--Product Usage By Industry -->
+
+                    <div class="mcMegaDropdown-row mcMegaDropdown-row mb-6" style="grid-template-columns: 55% auto;">
+
+                        <!--Academic Institutions-->
+                        <a href="https://www.madcapsoftware.com/industries/academic-institutions/"
+                            class="d-block mcMegaDropdown-link-transparent">
+                            <p>Academic Institutions</p>
+                        </a>
+                        <!--Government -->
+                        <a href="https://www.madcapsoftware.com/industries/government/"
+                            class="d-block mcMegaDropdown-link-transparent">
+                            <p>Government</p>
+                        </a>
+
+                        <!--Aerospace &amp; Defense-->
+                        <a href="https://www.madcapsoftware.com/industries/aerospace-defense/"
+                            class="d-block mcMegaDropdown-link-transparent">
+                            <p>Aerospace &amp; Defense</p>
+                        </a>
+                        <!--Life Sciences, Healthcare &amp; Pharmaceutical -->
+                        <a href="https://www.madcapsoftware.com/industries/lifesciences-healthcare-pharmaceutical/"
+                            class="d-block mcMegaDropdown-link-transparent">
+                            <p>Life Sciences, Healthcare &amp; Pharmaceutical</p>
+                        </a>
+
+                        <!--Consumer Goods &amp; Retail-->
+                        <a href="https://www.madcapsoftware.com/industries/consumer-goods-retail/"
+                            class="d-block mcMegaDropdown-link-transparent">
+                            <p>Consumer Goods &amp; Retail</p>
+                        </a>
+
+                        <!--Software &amp; Technology-->
+                        <a href="https://www.madcapsoftware.com/industries/software-technology/"
+                            class="d-block mcMegaDropdown-link-transparent">
+                            <p>Software &amp; Technology</p>
+                        </a>
+                        <!--Energy, Manufacturing &amp; Mining-->
+                        <a href="https://www.madcapsoftware.com/industries/energy-manufacturing-mining/"
+                            class="d-block mcMegaDropdown-link-transparent">
+                            <p>Energy, Manufacturing &amp; Mining</p>
+                        </a>
+                        <!--Telecommunications-->
+                        <a href="https://www.madcapsoftware.com/industries/telecommunications/"
+                            class="d-block mcMegaDropdown-link-transparent">
+                            <p>Telecommunications</p>
+                        </a>
+                        <!--Financial, Banking Services &amp; Business Services-->
+                        <a href="https://www.madcapsoftware.com/industries/financial-banking-business-services/"
+                            class="d-block mcMegaDropdown-link-transparent">
+                            <p>Financial, Banking Services &amp; Business Services</p>
+                        </a>
+
+                    </div>
+
+                    <a href="https://www.madcapsoftware.com/industries/" class="mcMegaDropdown-viewPage">Industries Overview
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="12" viewBox="0 0 65.1 48.1"
+                            overflow="visible">
+                            <defs />
+                            <path
+                                d="M64.7 25.3c.1-.1.1-.2.1-.3 0-.1.1-.2.1-.3 0-.1.1-.2.1-.3.1-.4.1-.8 0-1.2 0-.1-.1-.2-.1-.3 0-.1-.1-.2-.1-.3 0-.1-.1-.2-.1-.3 0-.1-.1-.2-.1-.2-.1-.2-.2-.3-.4-.5L43.4.9c-1.2-1.2-3.1-1.2-4.2 0C38 2.1 38 4 39.2 5.1l15.7 15.7H3c-1.7 0-3 1.3-3 3s1.3 3 3 3h51.9L38.8 43c-1.2 1.2-1.2 3.1 0 4.2.6.6 1.4.9 2.1.9s1.5-.3 2.1-.9L64.2 26c.1-.1.3-.3.4-.5.1-.1.1-.1.1-.2z" />
+                        </svg>
+                    </a>
+
+                </div>
+                <div class="mcmegadropdown-item4-right" style="background-color: #E8E9EA;">
+                    <img data-src="https://f1.madcapsoftware.com/websiteImages/icons/icon-featured.svg"
+                        class="Sirv mb-4" data-options="autostart:off" width="109" height="25"
+                        alt="New Resource Icon" />
+                    <a class="mcmegadropdown-customerListLink"
+                        href="https://www.madcapsoftware.com/customers/customer-list/">
+                        <p class="bodyCopy1 mcMegaDropdown-link-title mb-0" style="font-size: 19px;">Customer List</p>
+                        <p class="bodyCopy4 mcMegaDropdown-link-description mb-4" style="font-size: 14px;">View Our
+                            Sample Customer List by Industry</p>
+                    </a>
+                    <!-- logos -->
+                    <a class="d-block" href="https://www.madcapsoftware.com/customers/customer-list/">
+                        <div class="mcmegadropdown-logoWrapper">
+                            <div>
+                                <img data-src="https://f1.madcapsoftware.com/websiteImages/logos/logo-illumina-gray.svg"
+                                    alt="illumina Logo" width="56" height="" class="Sirv logo-illumina"
+                                    data-options="autostart:off" />
+                                <img data-src="https://f1.madcapsoftware.com/websiteImages/logos/logo-caterpillar-gray.svg"
+                                    alt="Caterpillar Logo" width="79" height="" class="Sirv logo-caterpillar"
+                                    data-options="autostart:off" />
+                                <img data-src="https://f1.madcapsoftware.com/websiteImages/logos/logo-sony-gray.svg"
+                                    alt="Sony Logo" width="58" height="" class="Sirv logo-sony"
+                                    data-options="autostart:off" />
+                            </div>
+                            <div>
+                                <img data-src="https://f1.madcapsoftware.com/websiteImages/logos/logo-vodafone-gray.svg"
+                                    alt="Vodafone Logo" width="86" height="" class="Sirv logo-vodafone"
+                                    data-options="autostart:off" />
+                                <img data-src="https://f1.madcapsoftware.com/websiteImages/logos/logo-airforce-gray.svg"
+                                    alt="U.S. Air Force Logo" width="49" height="" class="Sirv logo-airforce" />
+                                <img data-src="https://f1.madcapsoftware.com/websiteImages/logos/logo-upda-gray.svg"
+                                    alt="UPS Logo" width="31" height="" class="Sirv logo-ups"
+                                    data-options="autostart:off" style="margin-right: 10px;" />
+                            </div>
+                            <div>
+                                <img data-src="https://f1.madcapsoftware.com/websiteImages/logos/logo-hpe-gray.svg"
+                                    alt="HPE Logo" width="68" height="" class="Sirv logo-hpe"
+                                    data-options="autostart:off" />
+                                <img data-src="https://f1.madcapsoftware.com/websiteImages/logos/logo-amazon-gray.svg"
+                                    alt="Amazon Logo" width="62" height="" class="Sirv logo-amazon"
+                                    data-options="autostart:off" />
+                                <img data-src="https://f1.madcapsoftware.com/websiteImages/logos/logo-citi-gray.svg"
+                                    alt="Citi Logo" width="30" height="" class="Sirv logo-citi"
+                                    data-options="autostart:off" style="margin-right: 10px;" />
+                            </div>
+                        </div>
+                    </a>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+    <!----------------------------------------->
+    <!----------- Services Dropdown ----------->
+    <!----------------------------------------->
+
+    <div id="dropdown-services"
+        class="container-fluid mcMegaDropdown mcMegaDropdown-services mcMegaDropdown-gridT1 mcMegaDropdown-opacity-0 mcMegaDropdown-visibility-hidden mcMegaDropdown-height-0">
+
+        <div class="gridV1 mcMegaDropdown-wrapper">
+            <div class="grid-container ">
+                <!--Header Area--->
+                <div class="mcmegadropdown-item1-header"></div>
+                <div class="mcmegadropdown-item2-close">
+                    <button class="mcMegaDropdown-closeButton" data-hide-mega="dropdown-customer-success">
+                        <svg width="14" height="14">
+                            <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#symbol-x"></use>
+                        </svg>
+                    </button>
+                </div>
+
+                <!--Main Section--->
+                <div class="mcmegadropdown-item3-left">
+
+                    <!--Services Grid-->
+                    <div class="mcMegaDropdown-row mb-6">
+                        <!--Training-->
+                        <a href="https://www.madcapsoftware.com/services/free-training/"
+                            class="mcMegaDropdown-link mcMegaDropdown-link-md">
+                            <!--text-->
+                            <div class="mcMegaDropdown-link-inner">
+                                <p class="bodyCopy2 mcMegaDropdown-link-title">Certified Training</p>
+                                <p class="bodyCopy5 mcMegaDropdown-link-description mb-0">Sign Up
+                                    for On-site
+                                    or Web-based Training with MadSkills
+
+                                </p>
+                            </div>
+                            <!-- picture -->
+                            <div class="mcMegaDropdown-link-icon">
+                                <img data-src="https://f1.madcapsoftware.com/websiteImages/icons/icon-trainingV2.svg"
+                                    alt="Training Icon" class="Sirv" width="92" height="70"
+                                    data-options="autostart:off">
+                            </div>
+                        </a>
+
+                        <!--Translation-->
+                        <a href="https://www.madcapsoftware.com/services/translation/"
+                            class="mcMegaDropdown-link mcMegaDropdown-link-md">
+                            <!-- text -->
+                            <div class="mcMegaDropdown-link-inner">
+                                <p class="bodyCopy2 mcMegaDropdown-link-title">Translation and Localization</p>
+                                <p class="bodyCopy5 mcMegaDropdown-link-description mb-0">Reach
+                                    Global
+                                    Audiences with MadTranslations
+
+                                </p>
+                            </div>
+                            <!-- picture -->
+                            <div class="mcMegaDropdown-link-icon">
+                                <img data-src="https://f1.madcapsoftware.com/websiteImages/logos/logo-madtrans.svg"
+                                    alt="Translation and Localization Icon" width="85" height="75" class="Sirv"
+                                    data-options="autostart:off">
+                            </div>
+                        </a>
+                        <!--MAD Certification-->
+                        <a href="https://www.madcapsoftware.com/services/certification/"
+                            class="mcMegaDropdown-link-transparent mb-2" style="padding-left: 15px;">MAD Certification
+
+
+                        </a>
+                        <!--Consulting-->
+                        <a href="https://www.madcapsoftware.com/services/consulting/"
+                            class="mcMegaDropdown-link-transparent mb-2" style="padding-left: 15px;">Consulting
+
+
+                        </a>
+                        <!--Technical Writing-->
+                        <a href="https://www.madcapsoftware.com/services/technical-writing/"
+                            class="mcMegaDropdown-link-transparent " style="padding-left: 15px;">Technical Writing
+
+
+                        </a>
+                        <!--Customer Onboarding-->
+                        <a href="https://www.madcapsoftware.com/services/customer-onboarding/"
+                            class="mcMegaDropdown-link-transparent " style="padding-left: 15px;">Customer Onboarding
+
+
+                        </a>
+
+                    </div>
+
+
+                    <!--Services Page Button-->
+                    <a href="https://www.madcapsoftware.com/services/" class="mcMegaDropdown-viewPage">Services Overview
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="12" viewBox="0 0 65.1 48.1"
+                            overflow="visible">
+                            <defs />
+                            <path
+                                d="M64.7 25.3c.1-.1.1-.2.1-.3 0-.1.1-.2.1-.3 0-.1.1-.2.1-.3.1-.4.1-.8 0-1.2 0-.1-.1-.2-.1-.3 0-.1-.1-.2-.1-.3 0-.1-.1-.2-.1-.3 0-.1-.1-.2-.1-.2-.1-.2-.2-.3-.4-.5L43.4.9c-1.2-1.2-3.1-1.2-4.2 0C38 2.1 38 4 39.2 5.1l15.7 15.7H3c-1.7 0-3 1.3-3 3s1.3 3 3 3h51.9L38.8 43c-1.2 1.2-1.2 3.1 0 4.2.6.6 1.4.9 2.1.9s1.5-.3 2.1-.9L64.2 26c.1-.1.3-.3.4-.5.1-.1.1-.1.1-.2z" />
+                        </svg>
+                    </a>
+
+                </div>
+
+                <!--Side Section--->
+                <div class="mcmegadropdown-item4-right" style=" background-color: #E8E9EA;">
+                    <!--Now Available Section-->
+                    <img data-src="https://f1.madcapsoftware.com/websiteImages/icons/icon-nowAvailable.svg"
+                        data-options="autostart:off" class="Sirv mb-4" alt="Now Available Icon" width="162"
+                        height="25" />
+                    <div class="mcMegaDropdown-row">
+                        <a href="https://www.madcapsoftware.com/services/free-training/"
+                            class="d-block mcMegaDropdown-link-transparent">
+                            <p class="bodyCopy2 mcMegaDropdown-link-title">Free Introductory Training</p>
+                            <p class="bodyCopy5 mcMegaDropdown-link-description mb-0">Get started
+                                immediately with
+                                free web-based MadCap Flare and MadCap Lingo introductory training courses
+
+                            </p>
+
+                        </a>
+                        <a href="https://www.madcapsoftware.com/services/free-training/">
+                            <img data-src="https://f1.madcapsoftware.com/websiteImages/illustrations/ill-freeTraining-x2.png"
+                                data-options="autostart:off" class="Sirv" width="320" height="199"
+                                alt="Training Illustration" />
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+
+    <!----------------------------------------->
+    <!----------- Support Dropdown ------------>
+    <!----------------------------------------->
+
+    <div id="dropdown-support"
+        class="container-fluid mcMegaDropdown mcMegaDropdown-support mcMegaDropdown-gridT2 mcMegaDropdown-opacity-0 mcMegaDropdown-visibility-hidden mcMegaDropdown-height-0">
+        <div class="gridV3 mcMegaDropdown-wrapper">
+            <div class="grid-container ">
+                <!--Header Area--->
+                <div class="mcmegadropdown-item1-header">
+                </div>
+                <div class="mcmegadropdown-item2-close">
+                    <button class="mcMegaDropdown-closeButton" data-hide-mega="dropdown-customer-success">
+                        <svg width="14" height="14">
+                            <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#symbol-x"></use>
+                        </svg>
+                    </button>
+                </div>
+                <!--Main Sections--->
+                <div class="mcmegadropdown-item3-left">
+                    <!--Online Help & Documentation  Grid -->
+                    <p class="mcMegaDropdown-title mb-3">Online Help &amp; Documentation</p>
+                    <div class="mcMegaDropdown-row mb-6">
+                        <!--Flare Online Help -->
+                        <a href="https://help.madcapsoftware.com/flare/" rel="noopener" target="_blank"
+                            class="d-block mcMegaDropdown-link-transparent">
+                            <p>MadCap Flare</p>
+                        </a>
+                        <!--Contributor Online Help -->
+                        <a href="https://help.madcapsoftware.com/contributor/" rel="noopener" target="_blank"
+                            class="d-block mcMegaDropdown-link-transparent">
+                            <p>MadCap Contributor</p>
+                        </a>
+
+                        <!--Central Online Help -->
+                        <a href="https://help.madcapsoftware.com/central/"
+                            class="d-block mcMegaDropdown-link-transparent" rel="noopener" target="_blank">
+                            <p>MadCap Central</p>
+                        </a>
+                        <!--Capture Online Help -->
+                        <a href="https://help.madcapsoftware.com/capture/"
+                            class="d-block mcMegaDropdown-link-transparent" rel="noopener" target="_blank">
+                            <p>MadCap Capture</p>
+                        </a>
+
+                        <!--Lingo Help -->
+                        <a href="https://help.madcapsoftware.com/lingo/" class="d-block mcMegaDropdown-link-transparent"
+                            rel="noopener" target="_blank">
+                            <p>MadCap Lingo</p>
+                        </a>
+                        <!--Mimic Help -->
+                        <a href="https://help.madcapsoftware.com/mimic/" class="d-block mcMegaDropdown-link-transparent"
+                            rel="noopener" target="_blank">
+                            <p>MadCap Mimic</p>
+                        </a>
+                        <!--Knowledge Base -->
+                        <a href="https://kb.madcapsoftware.com/Content/Welcome.htm"
+                            class="d-block mcMegaDropdown-link-transparent" rel="noopener" target="_blank">
+                            <p>Knowledge Base</p>
+                        </a>
+                        <!--Doc-To-Help Online Help -->
+                        <a href="https://help.madcapsoftware.com/d2h6/Content/D2H-Server/Introduction/Home.htm"
+                            class="d-block mcMegaDropdown-link-transparent" rel="noopener" target="_blank">
+                            <p>MadCap Doc-To-Help</p>
+                        </a>
+                    </div>
+                    <!--page button-->
+                    <a href="https://www.madcapsoftware.com/support/" class="mcMegaDropdown-viewPage">Support Overview <svg
+                            xmlns="http://www.w3.org/2000/svg" width="16" height="12" viewBox="0 0 65.1 48.1"
+                            overflow="visible">
+                            <defs />
+                            <path
+                                d="M64.7 25.3c.1-.1.1-.2.1-.3 0-.1.1-.2.1-.3 0-.1.1-.2.1-.3.1-.4.1-.8 0-1.2 0-.1-.1-.2-.1-.3 0-.1-.1-.2-.1-.3 0-.1-.1-.2-.1-.3 0-.1-.1-.2-.1-.2-.1-.2-.2-.3-.4-.5L43.4.9c-1.2-1.2-3.1-1.2-4.2 0C38 2.1 38 4 39.2 5.1l15.7 15.7H3c-1.7 0-3 1.3-3 3s1.3 3 3 3h51.9L38.8 43c-1.2 1.2-1.2 3.1 0 4.2.6.6 1.4.9 2.1.9s1.5-.3 2.1-.9L64.2 26c.1-.1.3-.3.4-.5.1-.1.1-.1.1-.2z" />
+                        </svg>
+                    </a>
+                </div>
+                <!--Side Sections--->
+                <div class="mcmegadropdown-item4-right ">
+
+
+
+
+                    <div class="mcMegaDropdown-row">
+                        <p class="mcMegaDropdown-title mb-0">Technical Support</p>
+
+                        <!--Contact-->
+                        <a href="https://www.madcapsoftware.com/support/contact-options.aspx"
+                            class="d-block mcMegaDropdown-link-transparent">
+                            Contact Technical Support
+                        </a>
+
+                        <!--Technical Support FAQs-->
+                        <a href="https://www.madcapsoftware.com/support/faqs.aspx"
+                            class="d-block mcMegaDropdown-link-transparent">
+                            Technical Support FAQs
+                        </a>
+
+                        <!--Service Level Agreement -->
+                        <a href="https://www.madcapsoftware.com/company/service-level-agreement/"
+                            class="d-block mcMegaDropdown-link-transparent">Service Level Agreement (SLA)</a>
+
+
+                    </div>
+
+                </div>
+                <!--Side Sections--->
+                <div class="mcmegadropdown-item5-right ">
+
+
+
+
+                    <div class="mcMegaDropdown-row">
+
+                        <p class="mcMegaDropdown-title mb-0">Customer Service</p>
+
+                        <!--Contact Service-->
+                        <a href="https://www.madcapsoftware.com/support/customer-service.aspx"
+                            class="d-block mcMegaDropdown-link-transparent">
+                            Contact Customer Service
+                        </a>
+
+                        <!--Customer Downloads-->
+                        <a href="https://www.madcapsoftware.com/downloads/licensed-products/"
+                            class="d-block mcMegaDropdown-link-transparent">Download Products for Re-Installation</a>
+
+                        <p class="mcMegaDropdown-title mb-0">Customer Success</p>
+                        <!--Service Level Agreement -->
+                        <a href="https://www.madcapsoftware.com/customers/customer-success/"
+                            class="d-block mcMegaDropdown-link-transparent">Contact Customer Success</a>
+                        <p class="mcMegaDropdown-title mb-0">Channel Partners</p>
+                        <!--Service Level Agreement -->
+                        <a href="https://www.madcapsoftware.com/company/channel-partners/"
+                            class="d-block mcMegaDropdown-link-transparent">Channel Partner Resources</a>
+
+
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+    <!----------------------------------------->
+    <!----------- Customers Dropdown ---------->
+    <!----------------------------------------->
+
+    <div id="dropdown-customers"
+        class="container-fluid mcMegaDropdown mcMegaDropdown-customerSuccess mcMegaDropdown-gridT2 mcMegaDropdown-opacity-0 mcMegaDropdown-visibility-hidden mcMegaDropdown-height-0">
+        <div id=" dropdown-products" class="gridV1 mcMegaDropdown-wrapper">
+            <div class="grid-container ">
+                <!--Header Area--->
+                <div class="mcmegadropdown-item1-header"></div>
+                <div class="mcmegadropdown-item2-close">
+                    <button class="mcMegaDropdown-closeButton" data-hide-mega="dropdown-customer-success">
+                        <svg width="14" height="14">
+                            <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#symbol-x"></use>
+                        </svg>
+                    </button>
+                </div>
+
+                <!--Main Section--->
+                <div class="mcmegadropdown-item3-left">
+
+                    <!--Customers Grid-->
+                    <div class="mcMegaDropdown-row" style="margin-bottom: 123px;">
+                        <!-- Case Studies -->
+                        <a href="https://www.madcapsoftware.com/case-studies/"
+                            class="mcMegaDropdown-link mcMegaDropdown-link-md">
+                            <!--text-->
+                            <div class="mcMegaDropdown-link-inner">
+                                <p class="bodyCopy2 mcMegaDropdown-link-title">Case Studies</p>
+                                <p class="bodyCopy5 mcMegaDropdown-link-description mb-0">Access Our Entire Library of
+                                    Customer Success Stories</p>
+                            </div>
+                            <!-- picture -->
+                            <div class="mcMegaDropdown-link-icon">
+                                <img data-src="https://f1.madcapsoftware.com/websiteImages/icons/icon-caseStudies-150.svg"
+                                    alt="Case Studies Icon" width="78" height="70" class="Sirv"
+                                    data-options="autostart:off">
+                            </div>
+                        </a>
+                        <!-- Customer Showcase -->
+                        <a href="https://www.madcapsoftware.com/customers/customer-showcase/"
+                            class="mcMegaDropdown-link mcMegaDropdown-link-md">
+                            <!-- text -->
+                            <div class="mcMegaDropdown-link-inner">
+                                <p class="bodyCopy2 mcMegaDropdown-link-title">Customer Showcase</p>
+                                <p class="bodyCopy5 mcMegaDropdown-link-description mb-0">Get Inspired with
+                                    Our
+                                    Collection of Customer Documentation Sites, Print Manuals and More</p>
+                            </div>
+                            <!-- picture -->
+                            <div class="mcMegaDropdown-link-icon">
+                                <img data-src="https://f1.madcapsoftware.com/websiteImages/icons/icon-customerShowcase-250.svg"
+                                    alt="Customer Showcase Icon" width="83" height="70" class="Sirv"
+                                    data-options="autostart:off">
+                            </div>
+                        </a>
+
+                        <!-- Customer Testimonials -->
+                        <a href="https://www.madcapsoftware.com/customers/reviews-testimonials/"
+                            class="mcMegaDropdown-link-transparent mb-2" style="padding-left: 15px;">Customer
+                            Testimonials</p>
+
+
+                        </a>
+                        <!-- Customer List -->
+                        <a href="https://www.madcapsoftware.com/customers/customer-list/"
+                            class="mcMegaDropdown-link-transparent mb-2" style="padding-left: 15px;">Customer List
+
+
+                        </a>
+                        <!-- Current Promotions -->
+                        <a href="https://www.madcapsoftware.com/current-promotions/"
+                            class="mcMegaDropdown-link-transparent mb-2" style="padding-left: 15px;">Current Promotions
+
+
+                        </a>
+
+                    </div>
+
+
+                    <!--Customers Page Button-->
+                    <a href="https://www.madcapsoftware.com/customers/" class="mcMegaDropdown-viewPage">Customers
+                        Overview
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="12" viewBox="0 0 65.1 48.1"
+                            overflow="visible">
+                            <defs />
+                            <path
+                                d="M64.7 25.3c.1-.1.1-.2.1-.3 0-.1.1-.2.1-.3 0-.1.1-.2.1-.3.1-.4.1-.8 0-1.2 0-.1-.1-.2-.1-.3 0-.1-.1-.2-.1-.3 0-.1-.1-.2-.1-.3 0-.1-.1-.2-.1-.2-.1-.2-.2-.3-.4-.5L43.4.9c-1.2-1.2-3.1-1.2-4.2 0C38 2.1 38 4 39.2 5.1l15.7 15.7H3c-1.7 0-3 1.3-3 3s1.3 3 3 3h51.9L38.8 43c-1.2 1.2-1.2 3.1 0 4.2.6.6 1.4.9 2.1.9s1.5-.3 2.1-.9L64.2 26c.1-.1.3-.3.4-.5.1-.1.1-.1.1-.2z" />
+                        </svg>
+                    </a>
+
+                </div>
+
+                <!--Side Section--->
+                <div class="mcmegadropdown-item4-right" style=" background-color: #E8E9EA;">
+                    <!--Featured Section-->
+                    <img data-src="https://f1.madcapsoftware.com/websiteImages/icons/icon-featuredSuccessStoryROI.svg"
+                        class="Sirv mb-4" alt="Featured Icon" width="265" height="25" data-options="autostart:off" />
+                    <div class="mcMegaDropdown-row">
+                        <a href="https://www.madcapsoftware.com/case-study/jet-linx-uses-madcap-flare/"
+                            class="d-block mcMegaDropdown-link-transparent">
+                            <p class="bodyCopy2 mcMegaDropdown-link-title">Jet Linx ROI Case Study</p>
+                            <p class="bodyCopy5 mcMegaDropdown-link-description mb-0">Jet Linx Reduces Production Time
+                                of FAA-compliant Online and PDF Manuals from 3 Weeks to 3 Days</p>
+                        </a>
+                        <a href="https://www.madcapsoftware.com/case-study/jet-linx-uses-madcap-flare/">
+                            <img data-src="https://f1.madcapsoftware.com/websiteImages/illustrations/ill-featuredCustomer-jetlinx-x2.jpg"
+                                class="Sirv" width="320" height="200" data-options="autostart:off"
+                                alt="Jet Linx Banner" />
+                        </a>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+
+    <!----------------------------------------->
+    <!----------- Resources Dropdown ----------->
+    <!----------------------------------------->
+
+    <div id="dropdown-resources"
+        class="container-fluid mcMegaDropdown mcMegaDropdown-resources mcMegaDropdown-gridT2 mcMegaDropdown-opacity-0 mcMegaDropdown-visibility-hidden mcMegaDropdown-height-0">
+
+        <div class="gridV4 mcMegaDropdown-wrapper">
+            <div class="grid-container ">
+                <!--Header Section--->
+                <div class="mcmegadropdown-item1-header"></div>
+                <!--Close Section--->
+                <div class="mcmegadropdown-item2-close">
+                    <button class="mcMegaDropdown-closeButton" data-hide-mega="dropdown-customer-success">
+                        <svg width="14" height="14">
+                            <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#symbol-x"></use>
+                        </svg>
+                    </button>
+                </div>
+
+                <!--Main Section--->
+                <div class="mcmegadropdown-item3-left">
+
+                    <!--Resources Grid-->
+                    <div class="mcMegaDropdown-row mb-6" style="grid-template-columns: 48% auto;">
+
+                        <!--Videos and Tutorials-->
+                        <a href="https://www.madcapsoftware.com/videos/" class="mcMegaDropdown-link-transparent">Videos &amp;
+                            Tutorials
+                            
+
+                        </a>
+
+                        <!-- Newsletter -->
+                        <a href="https://www.madcapsoftware.com/resources/newsletter-signup/"
+                            class="mcMegaDropdown-link-transparent">Newsletter
+
+                            
+
+
+
+                        </a>
+
+                        <!--Free Industry Webinars-->
+                        <a href="https://www.madcapsoftware.com/resources/live-webinars.aspx"
+                            class="mcMegaDropdown-link-transparent">Webinars
+
+
+                            
+
+                        </a>
+
+                        <!-- Free Flare Project Templates -->
+                        <a href="https://www.madcapsoftware.com/downloads/madcap-flare-project-templates/"
+                            class="mcMegaDropdown-link-transparent">
+                            Project Templates
+
+
+                            
+
+                        </a>
+
+                        <!--MadBlog-->
+                        <a href="https://www.madcapsoftware.com/blog/" class="mcMegaDropdown-link-transparent">Blog
+
+                            
+                        </a>
+
+                        <!-- Plugins, Utilities & API Docs -->
+                        <a href="https://www.madcapsoftware.com/downloads/plugins-api-redistributables.aspx#content"
+                            class="mcMegaDropdown-link-transparent">Plugins, Utilities, &amp; API Docs
+
+
+                            
+
+                        </a>
+
+                        <!--MadWorld-->
+                        <a href="https://www.madcapsoftware.com/madworld-conferences/"
+                            class="mcMegaDropdown-link-transparent">MadWorld Conferences
+
+                            
+
+                        </a>
+
+                        <!-- White Papers & Recommended Books -->
+                        <a href="https://www.madcapsoftware.com/resources/white-papers/"
+                            class="mcMegaDropdown-link-transparent">
+                            White Papers &amp; Recommended Books
+
+                            
+                        </a>
+
+                        <!--MadCap Scholar Program-->
+                        <a href="https://www.madcapsoftware.com/education/" class="mcMegaDropdown-link-transparent">Scholar
+                            Program
+                            
+
+
+                        </a>
+
+                        <!-- News & Announcements -->
+                        <a href="https://www.madcapsoftware.com/company/press-center/"
+                            class="mcMegaDropdown-link-transparent">Press Releases
+
+
+                            
+
+                        </a>
+
+                        <!-- Community -->
+                        <a href="https://www.madcapsoftware.com/community/" class="mcMegaDropdown-link-transparent">User
+                            Groups
+
+                            
+
+                        </a>
+
+                    </div>
+
+                    <!--Resources Page Button-->
+                    <a href="https://www.madcapsoftware.com/resources/" class="mcMegaDropdown-viewPage">Resources Overview
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="12" viewBox="0 0 65.1 48.1"
+                            overflow="visible">
+                            <defs />
+                            <path
+                                d="M64.7 25.3c.1-.1.1-.2.1-.3 0-.1.1-.2.1-.3 0-.1.1-.2.1-.3.1-.4.1-.8 0-1.2 0-.1-.1-.2-.1-.3 0-.1-.1-.2-.1-.3 0-.1-.1-.2-.1-.3 0-.1-.1-.2-.1-.2-.1-.2-.2-.3-.4-.5L43.4.9c-1.2-1.2-3.1-1.2-4.2 0C38 2.1 38 4 39.2 5.1l15.7 15.7H3c-1.7 0-3 1.3-3 3s1.3 3 3 3h51.9L38.8 43c-1.2 1.2-1.2 3.1 0 4.2.6.6 1.4.9 2.1.9s1.5-.3 2.1-.9L64.2 26c.1-.1.3-.3.4-.5.1-.1.1-.1.1-.2z" />
+                        </svg>
+                    </a>
+
+                </div>
+
+                <!--Side Section--->
+                <div class="mcmegadropdown-item4-right" style=" background-color: #E8E9EA;">
+                    <!--Featured Section-->
+                    <img data-src="https://f1.madcapsoftware.com/websiteImages/icons/icon-new-reources.svg"
+                        class="Sirv mb-4" alt="New Resource Icon" data-options="autostart:off" width="159"
+                        height="25" />
+                    <div class="mcMegaDropdown-row">
+                        <!--Job Board -->
+                        <a href="https://jobs.madcapsoftware.com" target="_blank" rel="noopener"
+                            class="d-block mcMegaDropdown-link-transparent">
+                            <p class="bodyCopy2 mcMegaDropdown-link-title">MadCap Software Job Board</p>
+                            <p class="bodyCopy5 mcMegaDropdown-link-description mb-0">The #1 resource for
+                                connecting MadCap Flare job seekers with organizations worldwide</p>
+                        </a>
+                        <a href="https://jobs.madcapsoftware.com" target="_blank" rel="noopener">
+                            <img data-src="https://f1.madcapsoftware.com/websiteImages/illustrations/ill-jobBoard-x2.png"
+                                class="Sirv" data-options="autostart:off" width="320" height="200" alt="Axiom Banner" />
+                        </a>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+<!-- Sticky Nav start -->
+<div class="megaStickyWrapper megaSticky-is-invisible">
+    <div class="megaTop flexBox-row megaSticky megaSticky-is-faded megaSticky-is-invisible">
+        <div class="megaSticky-section1">
+            <a class="megaTop-logo-sticky" href="https://www.madcapsoftware.com">
+                <svg width="40" height="36">
+                    <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-simonAngled"></use>
+                </svg></a>
+            <a data-show-mega="dropdown-products" class="dropdownLink buttonT30"
+                href="https://www.madcapsoftware.com/products/">Products</a>
+            <a data-show-mega="dropdown-solutions" class="dropdownLink buttonT30 "
+                href="https://www.madcapsoftware.com/industries/">Industries</a>
+            <a data-show-mega="dropdown-services" class="dropdownLink buttonT30"
+                href="https://www.madcapsoftware.com/services/">Services</a>
+            <a data-show-mega="dropdown-support" class="dropdownLink buttonT30"
+                href="https://www.madcapsoftware.com/support/">Support</a>
+            <a data-show-mega="dropdown-customers" class="dropdownLink buttonT30"
+                href="https://www.madcapsoftware.com/customers/">Customers</a>
+            <a data-show-mega="dropdown-resources" class="dropdownLink buttonT30 "
+                href="https://www.madcapsoftware.com/resources/">Resources</a>
+            <a class="buttonT30" href="https://www.madcapsoftware.com/pricing/">Pricing</a>
+            <a class="buttonT30" href="https://www.madcapsoftware.com/contact-us/">Contact</a>
+            
+
+            <a class="megaTop-freeTrialsButton-sticky" href="https://www.madcapsoftware.com/free-trials/">Try Free</a>
+            <a class="megaTop-demoButton-sticky" href="https://www.madcapsoftware.com/demo-request/"
+                style="width: 135px; margin-left: 0px;">Get a Demo</a>
+
+        </div>
+    </div>
+</div>
+
+<!-- Sticky Nav End -->
+
+    <div class="main">
+        
+    <style>
+        .pageHeading-description1 {
+            text-align: center;
+        }
+
+        .pageHeadingSecondLevel .container {
+            border-bottom: none;
+        }
+
+        .banner-newsletterSignup,
+        .mcGradientT1 {
+            display: none;
+        }
+    </style>
+    <div class='containerWrapper  pageHeadingSecondLevel mcRow-xl paddingBottom-none '><div class='container container-lg '><div class='bs-row row-has-no-gutters row-has-centered-columns '><div class='col-12 col-nr-24'><h1 class='pageHeading-title h-lg textAlign-center marginBottom-xl'>Whoops!</h1><div class='pageHeading-description1  textAlign-center marginBottom-xl'>Sorry, the page you are looking for has hit a bump in the road.<br/> Feel free to <a href='https://www.madcapsoftware.com/'>return to the home page</a> or try searching to find what you&rsquo;re looking for. </div></div></div></div></div>
+
+
+    <div class="row">
+        <div class="container container-lg">
+            <div class="bs-row row-has-no-gutters row-has-centered-columns">
+
+                <div class="col-nr-24 col-12 mcRow-xl text-center">
+                    <img width="296" class="mcResponsiveImage hoirzontalMargins-auto Sirv"
+                        style="max-width: 296px; display: block;"
+                        data-src="https://f1.madcapsoftware.com/websiteImages/illustrations/ill-404.svg"
+                        alt="404 page image" />
+                </div>
+
+
+            </div>
+
+
+        </div>
+    </div>
+    
+<link rel='stylesheet' type='text/css' href='/sass/css/responsive-bootstrap4/CTABar.min.css' />
+
+
+<div class="row mcGradientT1 CTABar ">
+    <div class="container container-lg">
+        <div class="bs-row row-has-no-gutters row-has-centered-columns">
+
+            <div class="col-nr-21 col-xs-21 col-md-11 mx-auto col-is-centered">
+                <p class="textAlign-center marginTop-none marginBottom-md h-lg mcColorwhite">Ready to Get Started?<br />Our 30-Day Trials are Free and Fully Functional.</p>
+                <div class="CTABar-actions">
+                    <a rel="nofollow" href="https://www.madcapsoftware.com/free-trials/" class="btnT31-color350-lg marginsHorizontal-auto productPageHeading-button">Start Your Free Trial &amp; Request a Demo</a>
+                    <a rel="nofollow" href="https://www.madcapsoftware.com/free-trials/" class="btnT31-color350-md marginsHorizontal-auto productPageHeading-button-md">Start Trial &amp; Request a Demo</a>
+
+                    
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+    </div>
+    
+
+<div class="banner-newsletterSignup mcRow" style="background-color: #fff;">
+
+    <div class="" style="overflow: hidden; background-color: #ffffff;">
+        <div class="container container-lg">
+            <div class="bs-row row-has-no-gutters row-has-centered-columns marginTop-sm marginBottom-sm">
+
+                <div class="col-nr-17 col-md-9 marginsHorizontal-auto banner-newsletterSignup-center col-is-centered">
+                    <div class="banner-newsletterSignup-image">
+                        <img data-src="https://f1.madcapsoftware.com/websiteImages/icons/icon-newsletterCircle-655.svg"
+                            class="Sirv" alt="newsletter icon" width="98" height="98" />
+                    </div>
+                    <div class="banner-newsletterSignup-info">
+                        <p class="marginBottom-xs h-xxs" style="font-size: 15px;">Stay Up to Date. <a
+                                href="https://www.madcapsoftware.com/resources/newsletter-signup/"
+                                class="buttonT25-color350-sm">Sign up for the MadCap Insider Newsletter <svg width="10"
+                                    height="10" class="buttonT25-symbol-doubleArrow">
+                                    <use xmlns:xlink="http://www.w3.org/1999/xlink"
+                                        xlink:href="#symbol-doubleArrowRight"></use>
+                                </svg></a></p>
+
+                        <p class="marginBottom-none bodyCopy3">
+                            Get free resources, product updates, live webinars, event information,<br
+                                class="d-none d-lg-block d-xl-block" /> promotional offers and more delivered to your
+                            inbox every month.
+                        </p>
+
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="footer-wrapper clearfix px-0">
+    <div class="container container-lg">
+        <div class="bs-row footerLayout-lg">
+
+            <!-- logo and contact info -->
+            <div class="col-nr-8 text-center text-lg-left footer-contact-div">
+                <img width="230" height="60"
+                    data-src="https://f1.madcapsoftware.com/websiteImages/icons/footer-logoV3.svg"
+                    class="mcResponsiveImage marginBottom-xs footer-logo Sirv" alt="MadCap Software Logo" />
+
+                <div class="float-none footer-contact">
+                    <p class="footer-contact-address">
+                        9171 Towne Centre Dr #335<br />
+                        San Diego, CA 92122
+                    </p>
+                    <p class="footer-contact-phone">
+                        Toll Free (US/Canada): +1 888-MADCAP1<br />
+                        Direct: +1 858-320-0387
+                    </p>
+                </div>
+            </div>
+
+            <div class="col-nr-16 footerLinks">
+
+                <!-- products -->
+                <div class="footer-products-div footerLinks-col">
+                    <a class="footerLinks-colHeadingLink px-0" href="https://www.madcapsoftware.com/products/">Products</a>
+
+                    <a class="footerLinks-colLink" id="footerLinks-ams"
+                        href="https://www.madcapsoftware.com/products/authoring-management-system/">MadCap AMS</a>
+                    <a class="footerLinks-colLink" id="footerLinks-flare"
+                        href="https://www.madcapsoftware.com/products/flare/">MadCap Flare</a>
+                    <a class="footerLinks-colLink" id="footerLinks-central"
+                        href="https://www.madcapsoftware.com/products/central/">MadCap Central</a>
+                    <a class="footerLinks-colLink px-0" id="footerLinks-contributor"
+                        href="https://www.madcapsoftware.com/products/contributor/">MadCap Contributor</a>
+
+                    <a class="footerLinks-colLink" id="footerLinks-lingo"
+                        href="https://www.madcapsoftware.com/products/lingo/">MadCap Lingo</a>
+                    <a class="footerLinks-colLink" id="footerLinks-mimic"
+                        href="https://www.madcapsoftware.com/products/flare/#CaptureMimic">MadCap Mimic</a>
+                    <a class="footerLinks-colLink" id="footerLinks-capture"
+                        href="https://www.madcapsoftware.com/products/flare/#CaptureMimic">MadCap Capture</a>
+
+                    <a target="_blank" rel="noopener"
+                        class="footerLinks-colLink footerLinks-colLink-is-external marginBottom-md"
+                        href="https://www.doctohelp.com">MadCap Doc-To-Help </a>
+
+                </div>
+
+                <!-- services -->
+                <div class="footer-products-div footerLinks-col">
+                    <a class="footerLinks-colHeadingLink" id="footerLinks-services"
+                        href="https://www.madcapsoftware.com/services/">Services</a>
+
+                    <a class="footerLinks-colLink" id="footerLinks-onboarding"
+                        href="https://www.madcapsoftware.com/services/customer-onboarding/">Onboarding</a>
+                    <a class="footerLinks-colLink" id="footerLinks-training"
+                        href="https://www.madcapsoftware.com/services/paid-training/">Training</a>
+                    <a class="footerLinks-colLink" id="footerLinks-consulting"
+                        href="https://www.madcapsoftware.com/services/consulting/">Consulting</a>
+                    <a class="footerLinks-colLink" id="footerLinks-technical-writing"
+                        href="https://www.madcapsoftware.com/services/technical-writing/">Technical Writing</a>
+                    <a class="footerLinks-colLink" id="footerLinks-translation"
+                        href="https://www.madcapsoftware.com/services/translation/">Translation</a>
+                    <a class="footerLinks-colLink marginBottom-md" id="footerLinks-madCertification"
+                        href="https://www.madcapsoftware.com/services/certification/">MAD Certification</a>
+                </div>
+
+                <!-- company -->
+                <div class="footer-products-div footerLinks-col">
+                    <a class="footerLinks-colHeadingLink" href="https://www.madcapsoftware.com/company/">Company</a>
+
+                    <a class="footerLinks-colLink" id="footerLinks-aboutUs"
+                        href="https://www.madcapsoftware.com/company/about-us/">About</a>
+                    <a class="footerLinks-colLink" id="footerLinks-careers"
+                        href="https://www.madcapsoftware.com/company/careers/">Careers</a>
+                    <a class="footerLinks-colLink" id="footerLinks-events"
+                        href="https://www.madcapsoftware.com/company/events/">Events</a>
+                    <a class="footerLinks-colLink" id="footerLinks-newsMedia"
+                        href="https://www.madcapsoftware.com/company/news-media-announcements/">News &amp; Media</a>
+                    <a class="footerLinks-colLink" id="footerLinks-resellersPartners"
+                        href="https://www.madcapsoftware.com/company/channel-partners/">Channel Partners</a>
+                    <a class="footerLinks-colLink" id="footerLinks-scholarProgram"
+                        href="https://www.madcapsoftware.com/education/">Scholar Program</a>
+                    <a class="footerLinks-colLink  marginBottom-md" id="footerLinks-government"
+                        href="https://www.madcapsoftware.com/resources/government.aspx">Government</a>
+                </div>
+
+                <!-- resources -->
+                <div class="footer-resources-div footer-products-div footerLinks-col">
+                    <a class="footerLinks-colHeadingLink" href="https://www.madcapsoftware.com/resources/">Resources</a>
+                    <a class="footerLinks-colLink" id="footerLinks-technicalSupport"
+                        href="https://www.madcapsoftware.com/support/">Technical Support</a>
+                    <a class="footerLinks-colLink" id="footerLinks-salesSupport"
+                        href="https://www.madcapsoftware.com/sales-support/">Sales Support</a>
+                    <a class="footerLinks-colLink" href="https://www.madcapsoftware.com/contact-us/">Contact Us</a>
+                    <a class="footerLinks-colLink footerLinks-colLink-is-external"
+                        href="https://jobs.madcapsoftware.com/" target="_blank" rel="noopener">MadCap Software Job
+                        Board</a>
+                    <a class="footerLinks-colLink " href="https://www.madcapsoftware.com/company/terms.aspx"
+                        rel="nofollow">Terms of Use</a>
+                    <a class="footerLinks-colLink" href="https://www.madcapsoftware.com/privacy/" rel="nofollow">Privacy
+                        &amp; Security</a>
+                    <a class="footerLinks-colLink" href="https://www.madcapsoftware.com/sitemap/">Sitemap</a>
+                </div>
+            </div>
+        </div>
+
+        <!-- hr -->
+        <div class="bs-row ">
+            <div class="col-xs-24 col-nr-24 col-12 marginBottom-sm">
+                <hr class="footer-hr" />
+
+                <!-- icons -->
+
+                <div class="footerLinksRow-footerLinks">
+                    <div class="socialLinksWrapper">
+                        <div class="socialLinks-v2">
+                            <a href="https://twitter.com/madcapsoftware" rel="noopener" target="_blank">
+                                <img data-src="https://f1.madcapsoftware.com/websiteImages/icons/icon-twitter-v2.svg"
+                                    class="Sirv" alt="Twitter Icon" height="36" width="36" />
+                            </a>
+
+                            <a href="https://www.linkedin.com/company/madcap-software-inc?trk=top_nav_home"
+                                rel="noopener nofollow" target="_blank">
+                                <img data-src="https://f1.madcapsoftware.com/websiteImages/icons/icon-linkedIn-v2.svg"
+                                    class="Sirv" alt="LinkedIn icon" height="36" width="36" />
+                            </a>
+
+                            <a href="https://www.youtube.com/madcapsoftware" rel="noopener" target="_blank">
+                                <img data-src="https://f1.madcapsoftware.com/websiteImages/icons/icon-youtube-v2.svg"
+                                    class="Sirv" alt="YouTube icon" height="36" width="36" />
+                            </a>
+
+                            <a href="https://www.facebook.com/MadCapSoftware" rel="noopener" target="_blank">
+                                <img data-src="https://f1.madcapsoftware.com/websiteImages/icons/icon-facebook-v2.svg"
+                                    class="Sirv" alt="Facebook icon" height="36" width="36" />
+                            </a>
+
+                            <a href="https://www.madcapsoftware.com/blog/" rel="noopener" target="_blank">
+                                <img data-src="https://f1.madcapsoftware.com/websiteImages/icons/icon-blog-v2.svg"
+                                    class="Sirv" alt="blog icon" height="36" width="36" />
+                            </a>
+
+                            <a href="https://forums.madcapsoftware.com/" rel="noopener" target="_blank">
+                                <img data-src="https://f1.madcapsoftware.com/websiteImages/icons/icon-forums-v2.svg"
+                                    class="Sirv" alt="forms icon" height="36" width="36" />
+                            </a>
+
+                        </div>
+                    </div>
+
+                    <!-- disclaimer -->
+                    <div class="footerCopyrightMessage">
+                        <p>
+                            Copyright &copy; 2005-2022 MadCap Software, Inc. Use of this website
+                            signifies your agreement to the <a href="https://www.madcapsoftware.com/company/terms.aspx"
+                                rel="nofollow">Terms
+                                of Use Agreement</a> and <a href="https://www.madcapsoftware.com/privacy/"
+                                rel="nofollow">Privacy
+                                Policy</a>. Certain MadCap Software technologies included in the software are protected
+                            by the following U.S. Patents: 7,934,153; 9,058,312; 11,126,787.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!--Cookies Banner -->
+<div class="mcRow-sm cookieBanner closeableContent" style="display: none;">
+    <div class="container container-fluid">
+        <div class="bs-row row-has-no-gutters row-has-centered-columns flexBox-row">
+            <div class="col-nr-21 col-10  marginsHorizontal-auto textAlign-left col-is-centered" style="float: none;">
+                <p class="mcColor600 bodyCopy3" style="margin-bottom: 0px !important;"><strong>Cookies: </strong>This
+                    website uses cookies. By using and further navigating this website you agree to the use of cookies.
+                    Detailed information about the use of cookies on this website is available by viewing our <a
+                        style="color: #25bcc3;" href='https://www.madcapsoftware.com/privacy/' rel='nofollow'>Privacy
+                        Policy</a>.</p>
+            </div>
+            <a class="cookieCloseButton closeableContent-closeButton">
+                <svg width="14" height="14">
+                    <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#symbol-x"></use>
+                </svg>
+            </a>
+        </div>
+    </div>
+</div>
+
+    <script src="https://assets.madcapsoftware.com/websiteScripts/jquery/jquery-3.6.0.min.js"></script>
+<script>window.jQuery || document.write('<script src="/Scripts/jquery/jquery-3.6.0.min.js">\x3C/script>')</script>
+    <!-- bundle -->
+    
+
+<script>
+    var SirvOptions = {
+        image: {
+            threshold: 1000,
+            hdQuality: 88
+        }
+    };
+</script>
+
+<script src="https://scripts.sirv.com/sirvjs/v3/sirv.js"></script>
+
+<script src="/Scripts/madBundle.js?v=71"></script>
+    
+    <script>var showFixedTabs;</script>
+
+    
+
+    
+<!-- sajari search -->
+
+
+
+    
+
+    
+
+<!-- Start of Async Drift Code -->
+<script defer>
+  "use strict";
+
+  function LoadDriftWidget() {
+
+    var t = window.driftt = window.drift = window.driftt || [];
+    if (!t.init) {
+      if (t.invoked) return void(window.console && console.error && console.error("Drift snippet included twice."));
+      t.invoked = !0, t.methods = ["identify", "config", "track", "reset", "debug", "show", "ping", "page", "hide",
+          "off", "on"
+        ],
+        t.factory = function (e) {
+          return function () {
+            var n = Array.prototype.slice.call(arguments);
+            return n.unshift(e), t.push(n), t;
+          };
+        }, t.methods.forEach(function (e) {
+          t[e] = t.factory(e);
+        }), t.load = function (t) {
+          var e = 3e5,
+            n = Math.ceil(new Date() / e) * e,
+            o = document.createElement("script");
+          o.type = "text/javascript", o.async = !0, o.crossorigin = "anonymous", o.src =
+            "https://js.driftt.com/include/" + n + "/" + t + ".js";
+          var i = document.getElementsByTagName("script")[0];
+          i.parentNode.insertBefore(o, i);
+        };
+    }
+
+    drift.SNIPPET_VERSION = '0.3.1';
+    drift.load('xbn47idpixeh');
+  };
+</script>
+<!-- End of Async Drift Code -->
+
+<script>
+  //load after waiting 5000 milliseconds, 5 seconds
+  setTimeout(function () {
+    LoadDriftWidget()
+  }, 5000)
+</script>
+
+
+
+
+    
+
+<!-- LinkedIn Insight -->
+<script type="text/javascript"> _linkedin_partner_id = "2401404"; window._linkedin_data_partner_ids = window._linkedin_data_partner_ids || []; window._linkedin_data_partner_ids.push(_linkedin_partner_id); </script><script type="text/javascript"> (function () { var s = document.getElementsByTagName("script")[0]; var b = document.createElement("script"); b.type = "text/javascript"; b.async = true; b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js"; s.parentNode.insertBefore(b, s); })(); </script> <noscript> <img height="1" width="1" style="display:none;" alt="" src="https://px.ads.linkedin.com/collect/?pid=2401404&fmt=gif" /> </noscript>
+
+
+
+    
+
+<!-- <script src="/Scripts/thirdParty/cq-prolyfill.js"></script> -->
+
+<!-- 
+ -->
+
+    
+
+</body>
+</html>
